@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<div>
+    <h1>Hello! Welcome to Open Source Recommendation System!!</h1>
+    <h3>You can login into our system! or if you are a new user, please sign up!!</h3>
+    <a href = "{{ url_for('login') }}">Login</a>
+    <a href = "{{ url_for('signup') }}">Sign Up</a>
+</div>
+{% endblock %}
+

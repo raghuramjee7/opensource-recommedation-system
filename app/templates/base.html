@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{url_for('static', filename='format.css')}}" />
+    <title>Open Source Recommendation System</title>
+</head>
+<body>
+    <div id="header"> Open Source Recommendation System </div>
+
+    <div id="content">
+        {% block content %}
+        {% endblock %}
+    </div>
+</body>
+</html>
