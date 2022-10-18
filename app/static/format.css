@@ -32,3 +32,14 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: skyblue;
 }
+
+wtf-submit {
+  background: #0066A2;
+  color: white;
+  border-style: outset;
+  border-color: #0066A2;
+  height: 50px;
+  width: 100px;
+  font: bold15px arial,sans-serif;
+  text-shadow: none;
+  }
