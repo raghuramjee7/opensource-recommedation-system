@@ -8,22 +8,29 @@ from flask_login import login_required
 from flask import request
 from werkzeug.urls import url_parse
 
-
-
-
+@app.route("/")
 @app.route("/index")
 @login_required
 def index():
-    user = {"username": "Raghu"}
-    return render_template('index.html', user=user)
+    user = current_user
+    user = User.query.filter_by(username=user.username).first()
+    # --- details about user----
+    user_details = {
+        "username" :user.username,
+        "name": user.name,
+        "github": user.github,
+        "skill": user.skills,
+
+    }
+    # ---------------------------
+    return render_template('index.html', user=user_details)
 
 @app.route("/logout")
 def logout():
     logout_user()
     return redirect(url_for("index"))
 
-@app.route("/")
-@app.route('/login', methods=['GET', 'POST'])
+@app.route("/login", methods=['GET', 'POST'])
 def login():
     if current_user.is_authenticated:
         return redirect(url_for('index'))
@@ -38,7 +45,7 @@ def login():
         if not next_page or url_parse(next_page).netloc != '':
             next_page = url_for('index')
         return redirect(url_for('index'))
-    return render_template('login.html', title='Sign In', form=form)
+    return render_template('login.html', form=form)
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():
@@ -48,7 +55,7 @@ def register():
     if form.validate_on_submit():
         user = Login(username=form.username.data)
         user.set_password(form.password.data)
-        data = User(name=form.name.data, user_id=form.username.data, github=form.github_id.data, skills=form.skill.data)
+        data = User(name=form.name.data, username=form.username.data, github=form.github_id.data, skills=form.skill.data)
         db.session.add(data)
         db.session.add(user)
         db.session.commit()

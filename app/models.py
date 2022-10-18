@@ -23,7 +23,7 @@ class Login(UserMixin, db.Model):
     
 class User(db.Model):
 
-    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(128), primary_key=True)
     name = db.Column(db.String(128))
     user_id = db.Column(db.Integer, db.ForeignKey("login.id"))
     github = db.Column(db.String(128))
