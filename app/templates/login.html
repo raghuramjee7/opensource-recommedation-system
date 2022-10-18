@@ -2,10 +2,14 @@
 {% block content %}
 
 <h1 align="center">Login</h1>
+
 {% for mesg in get_flashed_messages() %}
     <h5 align = "center">{{ mesg }}</h5>
 {% endfor %}
-<p align="center">New User? <a href="{{ url_for('register') }}">Click to Register!</a></p>
+
+<p align="center">
+    <a href="{{ url_for('register') }}">Click to Register!</a>
+</p>
 <form action="" method="post" novalidate>
     
 

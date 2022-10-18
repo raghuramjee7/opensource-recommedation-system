@@ -7,6 +7,8 @@ from flask_login import logout_user
 from flask_login import login_required
 from flask import request
 from werkzeug.urls import url_parse
+from recommender import *
+from rec_system import *
 
 @app.route("/")
 @app.route("/index")
@@ -22,8 +24,9 @@ def index():
         "skill": user.skills,
 
     }
+    result = recommender_sys(user.skills)
     # ---------------------------
-    return render_template('index.html', user=user_details)
+    return render_template('index.html', repos = result)
 
 @app.route("/logout")
 def logout():

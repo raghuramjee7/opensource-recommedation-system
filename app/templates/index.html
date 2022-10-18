@@ -1,10 +1,23 @@
 {% extends "base.html" %}
 {% block content %}
-<div align="center">
-    <h1>Hello! Welcome to Open Source Recommendation System!! {{ user.username }}</h1>
-    <h2>Name: {{ user.name }}</h2>
-    <h2>Github id: {{ user.github }}</h2>
-    <h2>Your skills: {{ user.skill }}</h2>
-</div>
+
+<table>
+    <tr>
+      <th>Repo Name</th>
+      <th>Language</th>
+      <th>Description</th>
+      <th>Stars</th>
+      <th>Link</th>
+    </tr>
+    {% for repo in repos %}
+    <tr>
+      <td>{{ repos[repo][0] }}</td>
+      <td>{{ repos[repo][3] }}</td>
+      <td>{{ repos[repo][2] }}</td>
+      <td>{{ repos[repo][4] }}</td>
+      <td><a href = "{{ repos[repo][1] }}" target = "_blank">Open</a></td>
+    </tr>
+    {% endfor %}
+
 {% endblock %}
 

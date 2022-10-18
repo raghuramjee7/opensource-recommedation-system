@@ -1,11 +1,14 @@
 #header {
-    padding: 20px;
+    padding: 10px;
     text-align: left;
-    background: black;
+    background: #0066A2;
     color: white;
-    font-size: 20px;
+    font-size: 40px;
   }
   
+body {
+  background: white;
+}
 
 form {
   text-align: center;
@@ -21,25 +24,25 @@ th, td {
 }
 
 a:link, a:visited {
-  background-color: skyblue;
+  background-color: #0066A2;
   color: white;
-  padding: 7px 12px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 
 a:hover, a:active {
-  background-color: skyblue;
+  background-color: #0066A2;
 }
 
-wtf-submit {
+#submit  {
   background: #0066A2;
   color: white;
   border-style: outset;
   border-color: #0066A2;
-  height: 50px;
-  width: 100px;
+  height: 35px;
+  width: 65px;
   font: bold15px arial,sans-serif;
   text-shadow: none;
   }

@@ -1,0 +1,981 @@
+,Repository Name,Description,Language,Number of Stars,Url,combined
+0,freeCodeCamp,The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.,JavaScript,290k,https://github.com/freeCodeCamp/freeCodeCamp,javascript nonprofits certification curriculum react nodejs javascript d3 teachers community education programming math learn-to-code careers
+1,bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",JavaScript,112k,https://github.com/twbs/bootstrap,javascript javascript css html bootstrap jekyll-site scss
+2,free-programming-books, Freely available programming books,,87.8k,https://github.com/EbookFoundation/free-programming-books,education list books resource
+3,react,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",JavaScript,69.7k,https://github.com/facebook/react,javascript
+4,d3,"Bring data to life with SVG, Canvas and HTML. ",JavaScript,65.7k,https://github.com/d3/d3,javascript visualization
+5,You-Dont-Know-JS,A book series on JavaScript. @YDKJS on twitter.,JavaScript,62k,https://github.com/getify/You-Dont-Know-JS,javascript book-series javascript training-materials async education programming es6 book es2015 learn-to-code training-providers closures prototypes
+6,tensorflow,Computation using data flow graphs for scalable machine learning,C++,61.6k,https://github.com/tensorflow/tensorflow,c++ tensorflow python machine-learning deep-neural-networks deep-learning neural-network ml distributed
+7,awesome, Curated list of awesome lists,,60.7k,https://github.com/sindresorhus/awesome,lists awesome unicorns resources awesome-list
+8,vue,"A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",JavaScript,57.7k,https://github.com/vuejs/vue,javascript javascript vue framework frontend
+9,angular.js,AngularJS - HTML enhanced for web apps!,JavaScript,56.2k,https://github.com/angular/angular.js,javascript
+10,oh-my-zsh,"A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+",Shell,55.2k,https://github.com/robbyrussell/oh-my-zsh,shell zsh-configuration shell theme productivity terminal
+11,javascript,JavaScript Style Guide,JavaScript,54.1k,https://github.com/airbnb/javascript,javascript arrow-functions javascript eslint naming-conventions styleguide es6 style-linter linting style-guide es2015
+12,gitignore,A collection of useful .gitignore templates,,51.6k,https://github.com/github/gitignore,gitignore git
+13,Font-Awesome,The iconic font and CSS toolkit,HTML,50.9k,https://github.com/FortAwesome/Font-Awesome,html
+14,react-native,A framework for building native apps with React.,JavaScript,50k,https://github.com/facebook/react-native,javascript
+15,electron,"Build cross platform desktop apps with JavaScript, HTML, and CSS",C++,47.2k,https://github.com/electron/electron,c++ html css javascript electron c-plus-plus chrome nodejs v8
+16,linux,Linux kernel source tree,C,46.3k,https://github.com/torvalds/linux,c
+17,jquery,jQuery JavaScript Library,JavaScript,45.3k,https://github.com/jquery/jquery,javascript
+18,coding-interview-university,A complete computer science study plan to become a software engineer.,,44.9k,https://github.com/jwasham/coding-interview-university,
+19,moby,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,Go,44.3k,https://github.com/moby/moby,go docker go containers
+20,animate.css, A cross-browser library of CSS animations. As easy to use as an easy thing.,CSS,42.8k,https://github.com/daneden/animate.css,css css-animations stylesheets css animation
+21,swift,The Swift Programming Language,C++,39.1k,https://github.com/apple/swift,c++
+22,atom,The hackable text editor,CoffeeScript,37.8k,https://github.com/atom/atom,coffeescript linux macos atom javascript electron editor windows
+23,meteor,"Meteor, the JavaScript App Platform",JavaScript,37.7k,https://github.com/meteor/meteor,javascript javascript meteor npm mongodb build-system
+24,html5-boilerplate,"A professional front-end template for building fast, robust, and adaptable web apps or sites.",JavaScript,37.6k,https://github.com/h5bp/html5-boilerplate,javascript
+25,node,Node.js JavaScript runtime ,JavaScript,36.4k,https://github.com/nodejs/node,javascript javascript nodejs windows macos linux node mit js runtime
+26,node-v0.x-archive,Moved to https://github.com/nodejs/node,,36.4k,https://github.com/nodejs/node-v0.x-archive,
+27,rails,Ruby on Rails,Ruby,36.1k,https://github.com/rails/rails,ruby rails ruby html mvc activerecord activejob
+28,Semantic-UI,Semantic is a UI component framework based around useful principles from natural language.,JavaScript,35.6k,https://github.com/Semantic-Org/Semantic-UI,javascript semantic flexbox ui css-framework tooltip button popup dropdown sidebar ui-components
+29,awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",Python,35.3k,https://github.com/vinta/awesome-python,python python awesome collections
+30,reveal.js,The HTML Presentation Framework,JavaScript,35.2k,https://github.com/hakimel/reveal.js,javascript slideshow slides presentations
+31,socket.io,Realtime application framework (Node.JS server),JavaScript,33.8k,https://github.com/socketio/socket.io,javascript
+32,three.js,JavaScript 3D library.,JavaScript,33.6k,https://github.com/mrdoob/three.js,javascript javascript svg webgl html5 canvas scene-graph
+33,laravel,A PHP Framework For Web Artisans,PHP,32.9k,https://github.com/laravel/laravel,php php laravel framework
+34,express,"Fast, unopinionated, minimalist web framework for node.",JavaScript,32.5k,https://github.com/expressjs/express,javascript javascript nodejs express server
+35,redux,Predictable state container for JavaScript apps,JavaScript,32k,https://github.com/reactjs/redux,javascript redux
+36,moment,"Parse, validate, manipulate, and display dates in javascript.",JavaScript,31.9k,https://github.com/moment/moment,javascript
+37,impress.js,It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired b,JavaScript,31.8k,https://github.com/impress/impress.js,javascript
+38,nw.js,Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web techno,C++,31.8k,https://github.com/nwjs/nw.js,c++ intel node-webkit nwjs javascript desktop web-application-framework
+39,the-art-of-command-line,"Master the command line, in one page",,31k,https://github.com/jlevy/the-art-of-command-line,
+40,Chart.js,Simple HTML5 Charts using the <canvas> tag,JavaScript,30.7k,https://github.com/chartjs/Chart.js,javascript html5-charts chart javascript html5 canvas graph
+41,material-design-icons,Material Design icons by Google,CSS,30.2k,https://github.com/google/material-design-icons,css material sprites icons android ios web material-design
+42,httpie,"Modern command line HTTP client  user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting",Python,30.2k,https://github.com/jakubroztocil/httpie,python python debugging cli http client json development terminal web rest curl http-client wget developer-tools usability httpie
+43,ionic,Build amazing native and progressive web apps with open web technologies. One app running on everything ,TypeScript,30.1k,https://github.com/ionic-team/ionic,typescript ionic javascript angular mobile framework typescript web pwa frontend
+44,jekyll," Jekyll is a blog-aware, static site generator in Ruby",Ruby,30.1k,https://github.com/jekyll/jekyll,ruby ruby jekyll static-site-generator
+45,vscode,Visual Studio Code,TypeScript,29.6k,https://github.com/Microsoft/vscode,typescript electron microsoft editor typescript visual-studio-code
+46,webpack,A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load par,JavaScript,29.4k,https://github.com/webpack/webpack,javascript javascript webpack commonjs amd module-loader web-performance web es6 compiler es2015 plugins javascript-compiler webpack2 build-tool loaders module-bundler esm javascript-modules
+47,resume.github.com,Resumes generated using the GitHub informations,JavaScript,29.4k,https://github.com/resume/resume.github.com,javascript
+48,AFNetworking,"A delightful networking framework for iOS, OS X, watchOS, and tvOS.",Objective-C,29.4k,https://github.com/AFNetworking/AFNetworking,objective-c
+49,go,The Go programming language,Go,29.2k,https://github.com/golang/go,go go programming-language language
+50,create-react-app,Create React apps with no build configuration.,JavaScript,29.1k,https://github.com/facebookincubator/create-react-app,javascript react zero-configuration build-tools
+51,legacy-homebrew, The former home of Homebrew,Ruby,29k,https://github.com/Homebrew/legacy-homebrew,ruby
+52,thefuck,Magnificent app which corrects your previous console command.,Python,28.6k,https://github.com/nvbn/thefuck,python python shell
+53,Front-end-Developer-Interview-Questions,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or complet",,28.2k,https://github.com/h5bp/Front-end-Developer-Interview-Questions,
+54,flask,"A microframework based on Werkzeug, Jinja2 and good intentions",Python,27.8k,https://github.com/pallets/flask,python python flask web-framework wsgi jinja werkzeug
+55,hacker-scripts,Based on a true story,JavaScript,27.8k,https://github.com/NARKOZ/hacker-scripts,javascript
+56,material-design-lite,Material Design Components in HTML/CSS/JS,HTML,27.8k,https://github.com/google/material-design-lite,html
+57,brackets,"An open source code editor for the web, written in JavaScript, HTML and CSS.",JavaScript,27.6k,https://github.com/adobe/brackets,javascript
+58,materialize,"Materialize, a CSS Framework based on Material Design",JavaScript,27.2k,https://github.com/Dogfalo/materialize,javascript material css design
+59,jQuery-File-Upload,"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audi",JavaScript,26.9k,https://github.com/blueimp/jQuery-File-Upload,javascript
+60,youtube-dl,Command-line program to download videos from YouTube.com and other video sites,Python,26.9k,https://github.com/rg3/youtube-dl,python
+61,normalize.css,A collection of HTML element and attribute style-normalizations,CSS,26.7k,https://github.com/necolas/normalize.css,css
+62,gulp,The streaming build system,JavaScript,26.6k,https://github.com/gulpjs/gulp,javascript
+63,material-ui,React Components that Implement Google's Material Design.,JavaScript,26.6k,https://github.com/callemall/material-ui,javascript react-components material-ui javascript google-material react material-design
+64,backbone,"Give your JS App some Backbone with Models, Views, Collections, and Events",JavaScript,26.4k,https://github.com/jashkenas/backbone,javascript
+65,django,The Web framework for perfectionists with deadlines.,Python,26.4k,https://github.com/django/django,python python django views framework orm web apps templates models
+66,yarn," Fast, reliable, and secure dependency management.",JavaScript,25.9k,https://github.com/yarnpkg/yarn,javascript yarn npm package-manager javascript
+67,requests,Python HTTP Requests for Humans ,Python,25.7k,https://github.com/requests/requests,python python http requests forhumans kennethreitz
+68,foundation-sites,The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for site,JavaScript,25.7k,https://github.com/zurb/foundation-sites,javascript
+69,angular,One framework. Mobile & desktop.,TypeScript,25.3k,https://github.com/angular/angular,typescript angular typescript javascript web-performance web pwa web-framework
+70,RxJava,RxJava  Reactive Extensions for the JVM  a library for composing asynchronous and event-based programs using observ,Java,25.2k,https://github.com/ReactiveX/RxJava,java flow reactive-streams java rxjava
+71,Apollo-11,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.,Assembly,24.4k,https://github.com/chrislgarry/Apollo-11,assembly agc apollo nasa
+72,kubernetes,Production-Grade Container Scheduling and Management,Go,24.3k,https://github.com/kubernetes/kubernetes,go cncf kubernetes containers go
+73,lodash,"A modern JavaScript utility library delivering modularity, performance, & extras.",JavaScript,24.3k,https://github.com/lodash/lodash,javascript lodash javascript modules utilities
+74,Alamofire,Elegant HTTP Networking in Swift,Swift,24.1k,https://github.com/Alamofire/Alamofire,swift
+75,redis,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values ",C,24k,https://github.com/antirez/redis,c
+76,awesome-android-ui,A curated list of awesome Android UI/UX libraries,,23.9k,https://github.com/wasabeef/awesome-android-ui,android awesome ui
+77,ansible,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid,Python,23.9k,https://github.com/ansible/ansible,python python ansible
+78,lantern,Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest  https://github.com/getl,Go,23.8k,https://github.com/getlantern/lantern,go
+79,awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",Python,23.7k,https://github.com/josephmisiti/awesome-machine-learning,python
+80,developer-roadmap,Roadmap to becoming a web developer in 2017,,23.6k,https://github.com/kamranahmedse/developer-roadmap,
+81,papers-we-love,Papers from the computer science community to read and discuss.,,23.6k,https://github.com/papers-we-love/papers-we-love,
+82,elasticsearch,"Open Source, Distributed, RESTful Search Engine",Java,23.4k,https://github.com/elastic/elasticsearch,java java search-engine elasticsearch
+83,android-open-project,A categorized collection of Android Open Source Projects : codekk,,23.3k,https://github.com/Trinea/android-open-project,android open-source-project
+84,neovim,Vim-fork focused on extensibility and usability.,Vim script,23.2k,https://github.com/neovim/neovim,vim script c neovim vim lua nvim text-editor cross-platform extensible api
+85,TypeScript,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.,TypeScript,23.2k,https://github.com/Microsoft/TypeScript,typescript javascript typescript language typechecker
+86,nylas-mail, An extensible desktop mail app built on the modern web. Forks welcome!,JavaScript,23.1k,https://github.com/nylas/nylas-mail,javascript linux javascript nylas-mail electron react windows macos flux productivity babel email
+87,react-router,Declarative routing for React,JavaScript,23k,https://github.com/ReactTraining/react-router,javascript
+88,Ghost,"A simple, powerful publishing platform",JavaScript,23k,https://github.com/TryGhost/Ghost,javascript javascript blogging journalism publishing web-application
+89,angular-styleguide,Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.,,22.9k,https://github.com/johnpapa/angular-styleguide,
+90,json-server,Get a full fake REST API with zero coding in less than 30 seconds (seriously),JavaScript,22.8k,https://github.com/typicode/json-server,javascript
+91,phantomjs,Scriptable Headless WebKit,HTML,22.5k,https://github.com/ariya/phantomjs,html
+92,computer-science, Path to a free self-taught education in Computer Science!,,22.5k,https://github.com/open-source-society/computer-science,computer-science courses awesome-list
+93,github-cheat-sheet,A list of cool features of Git and GitHub.,,22.3k,https://github.com/tiimgreen/github-cheat-sheet,list awesome awesome-list
+94,rust,"A safe, concurrent, practical language.",Rust,22.3k,https://github.com/rust-lang/rust,rust rust compiler
+95,retrofit,"Type-safe HTTP client for Android and Java by Square, Inc.",Java,22k,https://github.com/square/retrofit,java
+96,discourse,"A platform for community discussion. Free, open, simple.",Ruby,21.9k,https://github.com/discourse/discourse,ruby ruby rails discourse emberjs
+97,netdata,Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/,C,21.9k,https://github.com/firehol/netdata,c monitoring metrics iot linux notifications macos agent docker freebsd alarm status benchmark performance real-time monitor dashboard health-check web-analytics statuspage statsd
+98,frontend-dev-bookmarks,Manually curated collection of resources for frontend web developers.,,21.9k,https://github.com/dypsilon/frontend-dev-bookmarks,list awesome frontend awesome-list
+99,axios,Promise based HTTP client for the browser and node.js,JavaScript,21.8k,https://github.com/mzabriskie/axios,javascript javascript promise nodejs http-client
+100,awesome-go,"A curated list of awesome Go frameworks, libraries and software",Go,21.6k,https://github.com/avelino/awesome-go,go golang-library go golang awesome awesome-list
+101,async,Async utilities for node and the browser,JavaScript,21.6k,https://github.com/caolan/async,javascript javascript async callbacks
+102,babel, Babel is a compiler for writing next generation JavaScript.,JavaScript,21.5k,https://github.com/babel/babel,javascript babel javascript compiler ast flavortown
+103,todomvc,"Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more",JavaScript,21.3k,https://github.com/tastejs/todomvc,javascript
+104,big-list-of-naughty-strings,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as use,Python,21.2k,https://github.com/minimaxir/big-list-of-naughty-strings,python
+105,scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",Python,21.2k,https://github.com/scrapy/scrapy,python python crawler framework scraping crawling
+106,underscore,JavaScript's utility _ belt,JavaScript,20.9k,https://github.com/jashkenas/underscore,javascript
+107,chosen,"Chosen is a library for making long, unwieldy select boxes more friendly.",HTML,20.9k,https://github.com/harvesthq/chosen,html
+108,es6features,Overview of ECMAScript 6 features,,20.7k,https://github.com/lukehoban/es6features,
+109,Modernizr,Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the users browser.,JavaScript,20.6k,https://github.com/Modernizr/Modernizr,javascript javascript-library javascript css3-features modernizr feature-detection
+110,okhttp,An HTTP+HTTP/2 client for Android and Java applications.,Java,20.6k,https://github.com/square/okhttp,java
+111,select2,"Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolli",JavaScript,20.5k,https://github.com/select2/select2,javascript javascript jquery select2
+112,awesome-ios,"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",Swift,20.4k,https://github.com/vsouza/awesome-ios,swift swift-wrapper xcode-plugin ios-animation swift-framework swift-programming swift-library swift-extensions swift-language awesome ios objective-c objective-c-library objective-c-extensions apple-swift
+113,markdown-here,"Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",JavaScript,20.4k,https://github.com/adam-p/markdown-here,javascript
+114,hackathon-starter,A boilerplate for Node.js web applications,CSS,20.1k,https://github.com/sahat/hackathon-starter,css hackathon nodejs boilerplate oauth2
+115,awesome-react,A collection of awesome things regarding React ecosystem.,,20k,https://github.com/enaqx/awesome-react,
+116,nvm,Node Version Manager - Simple bash script to manage multiple active node.js versions,Shell,19.9k,https://github.com/creationix/nvm,shell
+117,java-design-patterns,Design patterns implemented in Java,Java,19.8k,https://github.com/iluwatar/java-design-patterns,java principles java design-patterns
+118,awesome-courses, List of awesome university courses for learning Computer Science!,HTML,19.8k,https://github.com/prakhar1989/awesome-courses,html computer-science awesome courses awesome-list
+119,gogs,Gogs is a painless self-hosted Git service.,Go,19.7k,https://github.com/gogits/gogs,go gogs go git
+120,pm2,Production process manager for Node.js apps with a built-in load balancer.,JavaScript,19.5k,https://github.com/Unitech/pm2,javascript startup-script pm2 nodejs process-manager node monitoring manager deploy production process load-balancer forever
+121,fullPage.js,fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple,JavaScript,19.5k,https://github.com/alvarotrigo/fullPage.js,javascript slide scrolling javascript jquery slideshow snap fullscreen swipe onepage fullpage sections mousewheel
+122,gitlabhq,GitLab CE | Please open new issues in our issue tracker on GitLab.com,Ruby,19.5k,https://github.com/gitlabhq/gitlabhq,ruby ruby gitlab rails
+123,Projects, A list of practical projects that anyone can solve in any programming language.,,19.5k,https://github.com/karan/Projects,
+124,scikit-learn,scikit-learn: machine learning in Python,Python,19.4k,https://github.com/scikit-learn/scikit-learn,python python data-science machine-learning statistics data-analysis
+125,android-architecture,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.,,19.3k,https://github.com/googlesamples/android-architecture,android-architecture android contentprovider android-development clean-architecture samples dagger2 loaders mvvm-architecture databinding mvp-android dagger2-mvp rxjava-android
+126,immutable-js,Immutable persistent data collections for Javascript which increase efficiency and simplicity.,JavaScript,19.3k,https://github.com/facebook/immutable-js,javascript
+127,rethinkdb,The open-source database for the realtime web.,C++,19.2k,https://github.com/rethinkdb/rethinkdb,c++
+128,awesome-public-datasets,"An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!",,19.2k,https://github.com/caesar0301/awesome-public-datasets,
+129,HEAD,A list of everything that could go in the <head> of your document,,19.2k,https://github.com/joshbuchea/HEAD,meta-tags html5 head
+130,awesome-awesomeness,A curated list of awesome awesomeness,Ruby,19.1k,https://github.com/bayandin/awesome-awesomeness,ruby
+131,certbot,"Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto",Python,18.9k,https://github.com/certbot/certbot,python python letsencrypt acme-client certificate acme certbot
+132,public-apis,A collective list of public JSON APIs for use in web development.,,18.8k,https://github.com/toddmotto/public-apis,
+133,Leaflet, JavaScript library for mobile-friendly interactive maps,JavaScript,18.7k,https://github.com/Leaflet/Leaflet,javascript leaflet javascript maps
+134,echarts,"A powerful, interactive charting and visualization library for browser",JavaScript,18.7k,https://github.com/ecomfe/echarts,javascript echarts javascript visualization chart
+135,caffe,Caffe: a fast open framework for deep learning.,C++,18.7k,https://github.com/BVLC/caffe,c++
+136,slick,the last carousel you'll ever need,JavaScript,18.6k,https://github.com/kenwheeler/slick,javascript
+137,free-programming-books-zh_CN, ,JavaScript,18.6k,https://github.com/justjavac/free-programming-books-zh_CN,javascript javascript python pdf android programming books free
+138,android_guides,Extensive Open-Source Guides for Android Developers,,18.6k,https://github.com/codepath/android_guides,android codepath development tutorials guides
+139,pdf.js,PDF Reader in JavaScript,JavaScript,18.3k,https://github.com/mozilla/pdf.js,javascript
+140,bootstrap-material-design,Material design theme for Bootstrap 3 and 4,CSS,18.3k,https://github.com/FezVrasta/bootstrap-material-design,css
+141,shadowsocks,"Updated Jun 24, 2017",Python,18.2k,https://github.com/shadowsocks/shadowsocks,python
+142,protobuf,Protocol Buffers - Google's data interchange format,C++,18.2k,https://github.com/google/protobuf,c++ protobuf-runtime protocol-compiler protobuf protocol-buffers serialization marshalling rpc protoc
+143,git,Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documenta,C,18k,https://github.com/git/git,c shell c
+144,hugo,A Fast and Flexible Static Site Generator built with love in GoLang.,Go,18k,https://github.com/gohugoio/hugo,go go hugo static-site-generator cms documentation-tool blog-engine content-management-system
+145,ember.js,Ember.js - A JavaScript framework for creating ambitious web applications,JavaScript,18k,https://github.com/emberjs/ember.js,javascript
+146,SDWebImage,Asynchronous image downloader with cache support as a UIImageView category,Objective-C,18k,https://github.com/rs/SDWebImage,objective-c
+147,polymer,Build modern apps using web components,HTML,17.8k,https://github.com/Polymer/polymer,html polymer web-components
+148,clipboard.js, Modern copy to clipboard. No Flash. Just 3kb gzipped ,JavaScript,17.8k,https://github.com/zenorocha/clipboard.js,javascript clipboard javascript
+149,pop,"An extensible iOS and OS X animation library, useful for physics-based interactions.",Objective-C++,17.8k,https://github.com/facebook/pop,objective-c++
+150,awesome-nodejs, Delightful Node.js packages and resources,,17.6k,https://github.com/sindresorhus/awesome-nodejs,javascript nodejs list awesome node awesome-list
+151,models,Models built with TensorFlow,Python,17.6k,https://github.com/tensorflow/models,python
+152,gitflow,Git extensions to provide high-level repository operations for Vincent Driessen's branching model.,Shell,17.6k,https://github.com/nvie/gitflow,shell
+153,system-design-primer,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,Python,17.5k,https://github.com/donnemartin/system-design-primer,python interview-questions python design development programming web system design-patterns interview web-application webapp interview-practice design-system
+154,hyper,A terminal built on web technologies,JavaScript,17.5k,https://github.com/zeit/hyper,javascript react javascript css html terminal hyperterm terminal-emulators
+155,awesome-vue,A curated list of awesome things related to Vue.js,,17.4k,https://github.com/vuejs/awesome-vue,
+156,ReactiveCocoa,Streams of values over time,Swift,17.4k,https://github.com/ReactiveCocoa/ReactiveCocoa,swift reactiveswift swift reactivecocoa
+157,serverless,"Serverless Framework  Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure F",JavaScript,17.3k,https://github.com/serverless/serverless,javascript aws-lambda serverless-framework serverless-architectures aws serverless azure-functions google-cloud-functions ibm-openwhisk
+158,sails,Realtime MVC Framework for Node.js,JavaScript,17.3k,https://github.com/balderdashy/sails,javascript
+159,devise,Flexible authentication solution for Rails with Warden.,Ruby,17.2k,https://github.com/plataformatec/devise,ruby rails devise ruby plataformatec authentication
+160,design-patterns-for-humans,Design Patterns for Humans - An ultra-simplified explanation,,17.2k,https://github.com/kamranahmedse/design-patterns-for-humans,
+161,skrollr,Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and ,HTML,17.2k,https://github.com/Prinzhorn/skrollr,html
+162,og-aws, Amazon Web Services  a practical guide,Shell,17.1k,https://github.com/open-guides/og-aws,shell
+163,guava,Google Core Libraries for Java,Java,17.1k,https://github.com/google/guava,java
+164,awesome-osx-command-line,Use your OS X terminal shell to do awesome things.,,17k,https://github.com/herrbischoff/awesome-osx-command-line,macos shell list awesome terminal macosx awesome-list
+165,AdminLTE,AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x,HTML,17k,https://github.com/almasaeed2010/AdminLTE,html
+166,the-swift-programming-language-in-chinese, Apple  Swift The Swift Programming Language,CSS,17k,https://github.com/numbbbbb/the-swift-programming-language-in-chinese,css
+167,pure,"A set of small, responsive CSS modules that you can use in every web project.",HTML,17k,https://github.com/yahoo/pure,html html css pure
+168,dotfiles," .files, including ~/.macos  sensible hacker defaults for macOS",Shell,16.9k,https://github.com/mathiasbynens/dotfiles,shell macos dotfiles bash
+169,Hover,"A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Ea",CSS,16.9k,https://github.com/IanLunn/Hover,css css css-effects sass
+170,keras,"Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.",Python,16.9k,https://github.com/fchollet/keras,python theano tensorflow deep-learning data-science machine-learning neural-networks
+171,hexo,"A fast, simple & powerful blog framework, powered by Node.js.",JavaScript,16.8k,https://github.com/hexojs/hexo,javascript javascript hexo nodejs static-site-generator
+172,butterknife,Bind Android views and callbacks to fields and methods.,Java,16.7k,https://github.com/JakeWharton/butterknife,java
+173,video.js,Video.js - open source HTML5 & Flash video player,JavaScript,16.7k,https://github.com/videojs/video.js,javascript javascript video player html flash html5 hls html5-video dash videojs html5-audio
+174,web-starter-kit,Web Starter Kit - a workflow for multi-device websites,HTML,16.6k,https://github.com/google/web-starter-kit,html
+175,security-guide-for-developers,Security Guide for Developers (),,16.6k,https://github.com/FallibleInc/security-guide-for-developers,security-checklist security-book
+176,fastlane, The easiest way to automate building and releasing your iOS and Android apps,Ruby,16.6k,https://github.com/fastlane/fastlane,ruby fastlane android ios screenshots automation mobile deployment apps
+177,build-web-application-with-golang,A golang ebook intro how to build a web with golang,Go,16.5k,https://github.com/astaxie/build-web-application-with-golang,go
+178,grafana,"The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",Go,16.5k,https://github.com/grafana/grafana,go elasticsearch go graphite prometheus grafana influxdb monitoring analytics metrics alerting
+179,RxJS,The Reactive Extensions for JavaScript,JavaScript,16.5k,https://github.com/Reactive-Extensions/RxJS,javascript
+180,bulma,Modern CSS framework based on Flexbox,CSS,16.5k,https://github.com/jgthms/bulma,css flexbox css html design css-framework
+181,huginn,Create agents that monitor and act on your behalf. Your agents are standing by!,Ruby,16.4k,https://github.com/huginn/huginn,ruby
+182,hammer.js,A javascript library for multi-touch gestures :// You can touch this,JavaScript,16.4k,https://github.com/hammerjs/hammer.js,javascript
+183,opencv,Open Source Computer Vision Library,C++,16.4k,https://github.com/opencv/opencv,c++ opencv c-plus-plus computer-vision deep-learning image-processing
+184,MPAndroidChart,"A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts ",Java,16.4k,https://github.com/PhilJay/MPAndroidChart,java
+185,syncthing,Open Source Continuous File Synchronization,Go,16.4k,https://github.com/syncthing/syncthing,go go synchronization peer-to-peer p2p
+186,awesome-selfhosted,This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the,JavaScript,16.3k,https://github.com/Kickball/awesome-selfhosted,javascript awesome cloud privacy selfhosted hosting self-hosted awesome-list
+187,upterm,A terminal emulator for the 21st century.,TypeScript,16.3k,https://github.com/railsware/upterm,typescript console terminal tty pty terminal-emulators
+188,glide,An image loading and caching library for Android focused on smooth scrolling,Java,16.1k,https://github.com/bumptech/glide,java
+189,dragula, Drag and drop so simple it hurts,JavaScript,16.1k,https://github.com/bevacqua/dragula,javascript javascript front-end component vanilla drag-and-drop drag-drop dragging
+190,sweetalert,"A beautiful replacement for JavaScript's ""alert""",JavaScript,16.1k,https://github.com/t4t5/sweetalert,javascript javascript sweetalert alert ui modal dialog popup
+191,koa,Expressive middleware for node.js using ES2017 async functions,JavaScript,16.1k,https://github.com/koajs/koa,javascript koa
+192,free-for-dev,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",,15.9k,https://github.com/ripienaar/free-for-dev,
+193,request, Simplified HTTP request client.,JavaScript,15.9k,https://github.com/request/request,javascript
+194,GPUImage,An open source iOS framework for GPU-based image and video processing,Objective-C,15.9k,https://github.com/BradLarson/GPUImage,objective-c
+195,Best-websites-a-programmer-should-visit, Some useful websites for programmers.,,15.7k,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,programmer links books cs sites
+196,awesome-php,"A curated list of amazingly awesome PHP libraries, resources and shiny things.",,15.7k,https://github.com/ziadoz/awesome-php,php-framework php-installation php-library php-applications php php7 awesome-list
+197,500lines,500 Lines or Less,JavaScript,15.7k,https://github.com/aosabook/500lines,javascript
+198,leakcanary,A memory leak detection library for Android and Java.,Java,15.7k,https://github.com/square/leakcanary,java
+199,material,Material design for AngularJS,JavaScript,15.6k,https://github.com/angular/material,javascript
+200,gitbook, Modern documentation format and toolchain using Git and Markdown,JavaScript,15.6k,https://github.com/GitbookIO/gitbook,javascript
+201,phaser,"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporti",HTML,15.6k,https://github.com/photonstorm/phaser,html javascript game-frameworks webgl phaser game-development phaserjs html5-game-development
+202,kotlin,The Kotlin Programming Language,Java,15.5k,https://github.com/JetBrains/kotlin,java kotlin kotlin-library programming-language compiler maven-plugin gradle-plugin intellij-plugin
+203,How-to-Make-a-Computer-Operating-System,How to Make a Computer Operating System in C++,C,15.5k,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System,c
+204,js-stack-from-scratch, Step-by-step tutorial to build a modern JavaScript stack.,JavaScript,15.4k,https://github.com/verekia/js-stack-from-scratch,javascript tutorial javascript webpack stack react yarn flow eslint redux heroku bootstrap react-router jest socket-io nodemon pm2 server-side-rendering jss immutablejs sinon
+205,intro.js,A better way for new feature introduction and step-by-step users guide for your website and project.,HTML,15.4k,https://github.com/usablica/intro.js,html javascript html introjs ux guide tour
+206,Android-Universal-Image-Loader,"Powerful and flexible library for loading, caching and displaying images on Android.",Java,15.4k,https://github.com/nostra13/Android-Universal-Image-Loader,java
+207,machine-learning-for-software-engineers,A complete daily plan for studying to become a machine learning engineer.,,15.3k,https://github.com/ZuzooVn/machine-learning-for-software-engineers,machine-learning deep-learning artificial-intelligence
+208,awesome-interview-questions,A curated awesome list of lists of interview questions. Feel free to contribute! ,,15.2k,https://github.com/MaximAbramchuck/awesome-interview-questions,rails-interview python-interview-questions javascript-interview-questions angularjs-interview-questions interview-questions javascript ruby interviewing list awesome awesomeness awesome-list interview-practice android-interview-questions
+209,ace,Ace (Ajax.org Cloud9 Editor),JavaScript,15.2k,https://github.com/ajaxorg/ace,javascript
+210,postcss,Transforming styles with JS plugins,JavaScript,15.2k,https://github.com/postcss/postcss,javascript css parser framework postcss ast
+211,bower,A package manager for the web,JavaScript,15.1k,https://github.com/bower/bower,javascript javascript bower package-manager front-end
+212,Vundle.vim,"Vundle, the plug-in manager for Vim",Vim script,15.1k,https://github.com/VundleVim/Vundle.vim,vim script
+213,weui,"A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",CSS,15.1k,https://github.com/Tencent/weui,css
+214,jquery-pjax,pushState + ajax = pjax,JavaScript,15.1k,https://github.com/defunkt/jquery-pjax,javascript
+215,awesome-sysadmin,A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.,,15.1k,https://github.com/kahun/awesome-sysadmin,
+216,Masonry,"Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS ",Objective-C,15k,https://github.com/SnapKit/Masonry,objective-c
+217,EventBus,"Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less",Java,14.9k,https://github.com/greenrobot/EventBus,java
+218,XX-Net,a web proxy tool,Python,14.9k,https://github.com/XX-net/XX-Net,python xx-net goagent gfw
+219,pixi.js,Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback,JavaScript,14.9k,https://github.com/pixijs/pixi.js,javascript game javascript pixi canvas webgl canvas2d pixijs glsl rendering renderer rendering-engine rendering-2d-graphics
+220,Charts,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.,Swift,14.9k,https://github.com/danielgindi/Charts,swift
+221,fastclick,Polyfill to remove click delays on browsers with touch UIs,HTML,14.8k,https://github.com/ftlabs/fastclick,html
+222,less.js,Less. The dynamic stylesheet language.,JavaScript,14.8k,https://github.com/less/less.js,javascript
+223,bluebird,  Bluebird is a full featured promise library with unmatched performance.,JavaScript,14.8k,https://github.com/petkaantonov/bluebird,javascript
+224,vagrant,Vagrant is a tool for building and distributing development environments.,Ruby,14.8k,https://github.com/mitchellh/vagrant,ruby
+225,SwiftyJSON,The better way to deal with JSON data in Swift,Swift,14.8k,https://github.com/SwiftyJSON/SwiftyJSON,swift swiftyjson json
+226,clean-code-javascript, Clean Code concepts adapted for JavaScript,JavaScript,14.7k,https://github.com/ryanmcdermott/clean-code-javascript,javascript inheritance javascript principles composition best-practices clean-code clean-architecture
+227,symfony,The Symfony PHP framework,PHP,14.7k,https://github.com/symfony/symfony,php php-framework php symfony framework bundle symfony-bundle psr-11 psr-3 psr-6 psr-16 psr-13
+228,fetch,A window.fetch JavaScript polyfill.,JavaScript,14.7k,https://github.com/github/fetch,javascript javascript polyfill fetch promise
+229,ant-design, A UI Design Language,TypeScript,14.7k,https://github.com/ant-design/ant-design,typescript enterprise antd typescript css react ui-design design-systems frontend react-components ui-kit ant-design
+230,superset,"Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application",Python,14.7k,https://github.com/ApacheInfra/superset,python druid data data-visualization dashboards data-analysis sql-editor
+231,slate,Beautiful static documentation for your API,JavaScript,14.7k,https://github.com/lord/slate,javascript slate api static-site-generator api-documentation
+232,pug,"Pug  robust, elegant, feature rich template engine for Node.js",JavaScript,14.6k,https://github.com/pugjs/pug,javascript
+233,spring-framework,The Spring Framework,Java,14.6k,https://github.com/spring-projects/spring-framework,java
+234,CodeIgniter,Open Source PHP Framework (originally from EllisLab),PHP,14.6k,https://github.com/bcit-ci/CodeIgniter,php php
+235,hhvm,A virtual machine designed for executing programs written in Hack and PHP.,C++,14.6k,https://github.com/facebook/hhvm,c++ hhvm hack php hacklang
+236,what-happens-when,"An attempt to answer the age old interview question ""What happens when you type google.com into your browser and pres",,14.6k,https://github.com/alex/what-happens-when,
+237,linux-insides,A little bit about a linux kernel,,14.5k,https://github.com/0xAX/linux-insides,linux-kernel linux-insides linux
+238,react-starter-kit,"React Starter Kit  isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Bro",JavaScript,14.4k,https://github.com/kriasoft/react-starter-kit,javascript babel webpack graphql browsersync javascript flux boilerplate react redux nodejs i18n ssr reactjs
+239,weex,A framework for building Mobile cross-platform UI,,14.4k,https://github.com/alibaba/weex,weex android ios mobile sdk web
+240,next.js,Framework for server-rendered React apps,JavaScript,14.4k,https://github.com/zeit/next.js,javascript react components node browser universal nextjs server-rendering
+241,FiraCode,Monospaced font with programming ligatures,Clojure,14.3k,https://github.com/tonsky/FiraCode,clojure ligatures programming-ligatures font
+242,typeahead.js,typeahead.js is a fast and fully-featured autocomplete library,JavaScript,14.3k,https://github.com/twitter/typeahead.js,javascript
+243,react-boilerplate," A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best",JavaScript,14.3k,https://github.com/react-boilerplate/react-boilerplate,javascript react redux i18n styled-components redux-saga offline-first react-boilerplate webpack2 scaffolding
+244,bootstrap,"Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (",JavaScript,14.2k,https://github.com/angular-ui/bootstrap,javascript
+245,Skeleton,"Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",CSS,14.2k,https://github.com/dhg/Skeleton,css
+246,freecodecamp.cn,CodeIssuesPull requestsWiki^_^,CSS,14.2k,https://github.com/FreeCodeCampChina/freecodecamp.cn,css
+247,PhotoSwipe,"JavaScript image gallery for mobile and desktop, modular, framework independent",JavaScript,14.2k,https://github.com/dimsemenov/PhotoSwipe,javascript
+248,android-best-practices,"Do's and Don'ts for Android development, by Futurice developers",,14.1k,https://github.com/futurice/android-best-practices,best-practices
+249,YouCompleteMe,A code-completion engine for Vim,Python,14.1k,https://github.com/Valloric/YouCompleteMe,python semantic-engine vim code-analysis code-completion
+250,zxing,"Official ZXing (""Zebra Crossing"") project home",Java,14.1k,https://github.com/zxing/zxing,java java zxing android barcode barcode-scanner
+251,CppCoreGuidelines,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",Python,14k,https://github.com/isocpp/CppCoreGuidelines,python
+252,coffeescript,Unfancy JavaScript,CoffeeScript,14k,https://github.com/jashkenas/coffeescript,coffeescript
+253,neural-style,Torch implementation of neural style algorithm,Lua,14k,https://github.com/jcjohnson/neural-style,lua
+254,flux,Application Architecture for Building User Interfaces,JavaScript,14k,https://github.com/facebook/flux,javascript
+255,element,A Vue.js 2.0 UI Toolkit for Web,Vue,14k,https://github.com/ElemeFE/element,vue vue javascript components vue-components ui-kit
+256,hosts,google hosts,Rascal,13.9k,https://github.com/racaljk/hosts,rascal google hosts
+257,ratchet,"Build mobile apps with simple HTML, CSS, and JavaScript components.",CSS,13.9k,https://github.com/twbs/ratchet,css ratchet javascript css html
+258,quill,"Your powerful, rich text editor",JavaScript,13.9k,https://github.com/quilljs/quill,javascript editor quill rich-text-editor
+259,etcd,Distributed reliable key-value store for the most critical data of a distributed system,Go,13.8k,https://github.com/coreos/etcd,go raft etcd go kubernetes distributed-systems database key-value consensus distributed-database
+260,ijkplayer,"Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.",C,13.8k,https://github.com/Bilibili/ijkplayer,c ijkplayer video ffmpeg android ios player
+261,nprogress,"For slim progress bars like on YouTube, Medium, etc",JavaScript,13.8k,https://github.com/rstacruz/nprogress,javascript
+262,dokku,A docker-powered PaaS that helps you build and manage the lifecycle of applications,Shell,13.8k,https://github.com/dokku/dokku,shell
+263,bitcoin,Bitcoin Core integration/staging tree,C++,13.7k,https://github.com/bitcoin/bitcoin,c++ bitcoin c-plus-plus cryptography p2p cryptocurrency
+264,webtorrent, Streaming torrent client for the web,JavaScript,13.7k,https://github.com/webtorrent/webtorrent,javascript javascript webtorrent bittorrent nodejs torrent streaming browser webrtc p2p
+265,tornado,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",Python,13.7k,https://github.com/tornadoweb/tornado,python python asynchronous
+266,picasso,A powerful image downloading and caching library for Android,Java,13.6k,https://github.com/square/picasso,java
+267,parse-server,Parse-compatible API server module for Node/Express,JavaScript,13.6k,https://github.com/parse-community/parse-server,javascript
+268,open-source-ios-apps, Collaborative List of Open-Source iOS Apps,Swift,13.6k,https://github.com/dkhamsing/open-source-ios-apps,swift game swift ios app list apple awesome react-native objective-c cocoapods example carthage reactiveswift iphone ipad apple-tv reactive-programming apple-watch
+269,spring-boot,Spring Boot,Java,13.6k,https://github.com/spring-projects/spring-boot,java
+270,lottie-android,Render After Effects animations natively on Android and iOS,Java,13.5k,https://github.com/airbnb/lottie-android,java lottie animation android airbnb after-effects
+271,iosched,The Google I/O 2016 Android App,Java,13.5k,https://github.com/google/iosched,java
+272,lime,Open source API-compatible alternative to the text editor Sublime Text,,13.5k,https://github.com/limetext/lime,
+273,you-get, Dumb downloader that scrapes the web,Python,13.4k,https://github.com/soimort/you-get,python
+274,MBProgressHUD,MBProgressHUD + Customizations,Objective-C,13.4k,https://github.com/jdg/MBProgressHUD,objective-c
+275,q,A promise library for JavaScript,JavaScript,13.4k,https://github.com/kriskowal/q,javascript
+276,SpinKit,A collection of loading indicators animated with CSS,CSS,13.4k,https://github.com/tobiasahlin/SpinKit,css
+277,awesome-mac, This repo is a collection of awesome Mac applications and tools for developers and designers.,HTML,13.4k,https://github.com/jaywcjlove/awesome-mac,html macos mac awesome software macosx awesome-list mac-osx
+278,reddit,the code that powers reddit.com,Python,13.4k,https://github.com/reddit/reddit,python python javascript reddit
+279,ui-router,The de-facto solution to flexible routing with nested views in AngularJS,TypeScript,13.3k,https://github.com/angular-ui/ui-router,typescript javascript ui-router angularjs typescript router state-machine routing state-tree
+280,awesome-react-native,"Awesome React Native components, news, tools, and learning material!",Ruby,13.3k,https://github.com/jondot/awesome-react-native,ruby react mobile react-native awesome-list
+281,spark,Mirror of Apache Spark,Scala,13.3k,https://github.com/apache/spark,scala
+282,devdocs,API Documentation Browser,Ruby,13.3k,https://github.com/Thibaut/devdocs,ruby devdocs offline app documentation docs pwa api-documentation documentation-tool developer-tools
+283,marked,A markdown parser and compiler. Built for speed.,HTML,13.2k,https://github.com/chjj/marked,html
+284,mermaid,Generation of diagram and flowchart from text in a similar manner as markdown,JavaScript,13.2k,https://github.com/knsv/mermaid,javascript
+285,anime,JavaScript Animation Engine,JavaScript,13.1k,https://github.com/juliangarnier/anime,javascript anime animation
+286,Flat-UI,"Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and fu",CSS,13.1k,https://github.com/designmodo/Flat-UI,css
+287,velocity,Accelerated JavaScript animation.,JavaScript,13.1k,https://github.com/julianshapiro/velocity,javascript
+288,awesome-java,"A curated list of awesome frameworks, libraries and software for the Java programming language.",,13k,https://github.com/akullpp/awesome-java,
+289,swift-algorithm-club,"Algorithms and data structures in Swift, with explanations!",Swift,13k,https://github.com/raywenderlich/swift-algorithm-club,swift
+290,autoprefixer,Parse CSS and add vendor prefixes to rules by Can I Use,JavaScript,13k,https://github.com/postcss/autoprefixer,javascript postcss-plugins css prefixer
+291,sentry,Sentry is a cross-platform crash reporting and aggregation platform.,Python,13k,https://github.com/getsentry/sentry,python python devops django monitoring crash-reporting error-monitoring crash-reports csp-report error-log
+292,angular-seed,Seed project for angular apps.,JavaScript,13k,https://github.com/angular/angular-seed,javascript
+293,npm,a package manager for javascript,JavaScript,12.9k,https://github.com/npm/npm,javascript
+294,fresco,An Android library for managing images and the memory they use.,Java,12.9k,https://github.com/facebook/fresco,java
+295,hubot,A customizable life embetterment robot.,JavaScript,12.8k,https://github.com/hubotio/hubot,javascript hubot chat bot
+296,DesignPatternsPHP,sample code for several design patterns in PHP,PHP,12.8k,https://github.com/domnikl/DesignPatternsPHP,php php designpatternsphp design-pattern oop phpunit design-patterns code-examples modern-php
+297,RxAndroid,RxJava bindings for Android,Java,12.8k,https://github.com/ReactiveX/RxAndroid,java
+298,idiomatic.js,"Principles of Writing Consistent, Idiomatic JavaScript",,12.8k,https://github.com/rwaldron/idiomatic.js,
+299,caddy,"Fast, cross-platform HTTP/2 web server with automatic HTTPS",Go,12.7k,https://github.com/mholt/caddy,go caddyfile go tls http web-server https reverse-proxy http-server automatic-https
+300,Swiper,Most modern mobile touch slider with hardware accelerated transitions,JavaScript,12.7k,https://github.com/nolimits4web/Swiper,javascript swipe gallery mobile slider touch carousel touch-events swiper
+301,zepto,"Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",HTML,12.6k,https://github.com/madrobby/zepto,html
+302,mocha," simple, flexible, fun javascript test framework for node.js & the browser",JavaScript,12.6k,https://github.com/mochajs/mocha,javascript javascript mocha nodejs testing browser tdd bdd mochajs
+303,mongoose,MongoDB object modeling designed to work in an asynchronous environment.,JavaScript,12.6k,https://github.com/Automattic/mongoose,javascript
+304,wrk,Modern HTTP benchmarking tool,C,12.6k,https://github.com/wg/wrk,c
+305,the_silver_searcher,"A code-searching tool similar to ack, but faster.",C,12.6k,https://github.com/ggreer/the_silver_searcher,c c silver-searcher pcre command-line-tool ag search-in-text
+306,scrollreveal,Easy scroll animations for web and mobile browsers.,JavaScript,12.6k,https://github.com/jlmakes/scrollreveal,javascript javascript animation scroll reveal
+307,jasmine,Simple JavaScript testing framework for browsers and node.js,JavaScript,12.6k,https://github.com/jasmine/jasmine,javascript
+308,cheerio,"Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",JavaScript,12.5k,https://github.com/cheeriojs/cheerio,javascript
+309,ruby-style-guide,A community-driven Ruby coding style guide,,12.5k,https://github.com/bbatsov/ruby-style-guide,
+310,dropzone,Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.,JavaScript,12.5k,https://github.com/enyo/dropzone,javascript dropzone javascript coffeescript drag-and-drop file-upload javascript-library
+311,Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,"aka ""Bayesian Methods for Hackers"": An introduction to Bayesian methods + probabilistic programming with a computatio",Jupyter Notebook,12.5k,https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,jupyter notebook bayesian-methods jupyter-notebook mathematical-analysis pymc data-science statistics
+312,nightmare,A high-level browser automation library.,JavaScript,12.4k,https://github.com/segmentio/nightmare,javascript electron chrome browser phantomjs headless-chrome
+313,Rocket.Chat,"Have your own Slack like online chat, built with Meteor.",JavaScript,12.4k,https://github.com/RocketChat/Rocket.Chat,javascript javascript slack chat real-time mit meteor webrtc foss collaboration free
+314,emscripten,Emscripten: An LLVM-to-JavaScript Compiler,C,12.4k,https://github.com/kripken/emscripten,c
+315,ruby,The Ruby Programming Language,Ruby,12.4k,https://github.com/ruby/ruby,ruby ruby c ruby-language language object-oriented
+316,http-api-design,HTTP API design guide extracted from work on the Heroku Platform API,,12.4k,https://github.com/interagent/http-api-design,
+317,flow,Adds static typing to JavaScript to improve developer productivity and code quality.,OCaml,12.3k,https://github.com/facebook/flow,ocaml
+318,awesome-swift,A collaborative list of awesome swift resources. Feel free to contribute!,Swift,12.3k,https://github.com/matteocrippa/awesome-swift,swift swift swift-language swift-library lists list awesome swift-extensions swift-framework awesome-list awesome-lists awesome-swift
+319,standard," JavaScript Style Guide, with linter & automatic code fixer",JavaScript,12.2k,https://github.com/standard/standard,javascript javascript linter nodejs development eslint es6 static-code-analysis style-guide ecmascript standard
+320,HowToBeAProgrammer,A guide on how to be a Programmer - originally published by Robert L Read,,12.2k,https://github.com/braydie/HowToBeAProgrammer,learning programming
+321,php-src,The PHP Interpreter,C,12.2k,https://github.com/php/php-src,c
+322,Deep-Learning-Papers-Reading-Roadmap,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!,Python,12.2k,https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap,python deep-learning
+323,blog,starwatchfork,,12.2k,https://github.com/fouber/blog,
+324,bootstrap-sass,Official Sass port of Bootstrap 2 and 3.,Ruby,12.2k,https://github.com/twbs/bootstrap-sass,ruby
+325,pace,Automatically add a progress bar to your site. #hubspot-open-source,CSS,12.1k,https://github.com/HubSpot/pace,css
+326,handlebars.js,"Updated May 31, 2017",JavaScript,12.1k,https://github.com/wycats/handlebars.js,javascript
+327,spacemacs,"A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",Emacs Lisp,12.1k,https://github.com/syl20bnr/spacemacs,emacs lisp emacs vim community-driven configuration spacemacs
+328,riot,Simple and elegant component-based UI library,JavaScript,12.1k,https://github.com/riot/riot,javascript javascript framework webcomponents minimal simple view elegant client-side customtags lite
+329,CodeMirror,In-browser code editor,JavaScript,12k,https://github.com/codemirror/CodeMirror,javascript
+330,corefx,"This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file sys",C#,12k,https://github.com/dotnet/corefx,c# coreclr microsoft corefx csharp dotnet dotnetcore dotnet-core
+331,TensorFlow-Examples,TensorFlow Tutorial and Examples for beginners,Jupyter Notebook,12k,https://github.com/aymericdamien/TensorFlow-Examples,jupyter notebook tensorflow python machine-learning tutorial deep-learning examples
+332,SwiftGuide,Swifthttp://dev.swiftguide.cn,Swift,12k,https://github.com/ipader/SwiftGuide,swift
+333,masonry, Cascading grid layout library,HTML,11.9k,https://github.com/desandro/masonry,html
+334,tesseract.js,Pure Javascript OCR for 62 Languages ,JavaScript,11.8k,https://github.com/naptha/tesseract.js,javascript
+335,libgdx,Desktop/Android/HTML5/iOS Java game development framework,Java,11.8k,https://github.com/libgdx/libgdx,java game java libgdx android windows linux ios framework html5 cross-platform macosx 3d 2d
+336,Perfect,"Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, web",Swift,11.7k,https://github.com/PerfectlySoft/Perfect,swift swift swift-perfect-community perfect swift-framework server-side-swift web-application-framework
+337,mongo,The MongoDB Database,C++,11.7k,https://github.com/mongodb/mongo,c++
+338,mojs,motion graphics toolbelt for the web,JavaScript,11.7k,https://github.com/legomushroom/mojs,javascript javascript motion-graphics tools animation motion
+339,python-patterns,A collection of design patterns/idioms in Python,Python,11.7k,https://github.com/faif/python-patterns,python python idioms design-patterns
+340,python-guide,"Python best practices guidebook, written for Humans.",Batchfile,11.7k,https://github.com/kennethreitz/python-guide,batchfile python book guide kennethreitz
+341,prettier,Prettier is an opinionated code formatter.,JavaScript,11.7k,https://github.com/prettier/prettier,javascript ast printer javascript
+342,engineering-blogs,A curated list of engineering blogs,Ruby,11.7k,https://github.com/kilimchoi/engineering-blogs,ruby tech engineering-blogs lists software-development programming-blogs
+343,AsyncDisplayKit,Smooth asynchronous user interfaces for iOS apps.,Objective-C++,11.7k,https://github.com/facebookarchive/AsyncDisplayKit,objective-c++
+344,ipython,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, docu",Python,11.6k,https://github.com/ipython/ipython,python python data-science jupyter notebook ipython repl
+345,fmdb,A Cocoa / Objective-C wrapper around SQLite,Objective-C,11.6k,https://github.com/ccgus/fmdb,objective-c
+346,mostly-adequate-guide,Mostly adequate guide to FP (in javascript),JavaScript,11.6k,https://github.com/MostlyAdequate/mostly-adequate-guide,javascript
+347,parallax,Parallax Engine that reacts to the orientation of a smart device,JavaScript,11.6k,https://github.com/wagerfield/parallax,javascript
+348,statsd,Daemon for easy but powerful stats aggregation,JavaScript,11.6k,https://github.com/etsy/statsd,javascript
+349,storybook, Interactive development & testing environment for React and React-Native UI components,JavaScript,11.5k,https://github.com/storybooks/storybook,javascript storybook react testing components styleguide library ui react-native webpack addons isolation
+350,CNTK,"Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",C++,11.5k,https://github.com/Microsoft/CNTK,c++
+351,You-Dont-Need-jQuery,"Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",JavaScript,11.5k,https://github.com/oneuijs/You-Dont-Need-jQuery,javascript
+352,grunt,Grunt: The JavaScript Task Runner,JavaScript,11.5k,https://github.com/gruntjs/grunt,javascript
+353,node-inspector,Node.js debugger based on Blink Developer Tools,JavaScript,11.5k,https://github.com/node-inspector/node-inspector,javascript
+354,macOS-Security-and-Privacy-Guide,A practical guide to securing macOS.,Python,11.5k,https://github.com/drduh/macOS-Security-and-Privacy-Guide,python disk-encryption privacy apple macos security osx macos-setup
+355,awesome-electron,Useful resources for creating apps with Electron,,11.4k,https://github.com/sindresorhus/awesome-electron,electron list awesome awesome-list
+356,gentelella,Free Bootstrap 3 Admin Template,HTML,11.4k,https://github.com/puikinsh/gentelella,html bootstrap html dashboard html-template admin-dashboard
+357,beego,"beego is an open-source, high-performance web framework for the Go programming language.",Go,11.3k,https://github.com/astaxie/beego,go go beego
+358,textmate,TextMate is a graphical text editor for OS X 10.9+,Objective-C++,11.3k,https://github.com/textmate/textmate,objective-c++
+359,solarized,"precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",Vim script,11.3k,https://github.com/altercation/solarized,vim script
+360,diaspora,"A privacy-aware, distributed, open source social network.",Ruby,11.3k,https://github.com/diaspora/diaspora,ruby ruby rails social-network decentralized distributed federated
+361,js-must-watch,Must-watch videos about javascript,,11.2k,https://github.com/bolshchikov/js-must-watch,javascript watch education videos
+362,tesseract,Tesseract Open Source OCR Engine (main repository),C++,11.2k,https://github.com/tesseract-ocr/tesseract,c++ ocr-engine tesseract tesseract-ocr machine-learning ocr lstm
+363,DefinitelyTyped,The repository for high quality TypeScript type definitions.,TypeScript,11.2k,https://github.com/DefinitelyTyped/DefinitelyTyped,typescript typescript definition types typescript-definitions dts typings
+364,homebrew-cask,A CLI workflow for the administration of Mac applications distributed as binaries,Ruby,11.2k,https://github.com/caskroom/homebrew-cask,ruby
+365,ionicons,The premium icon font for Ionic,HTML,11.2k,https://github.com/ionic-team/ionicons,html
+366,nodemon,Monitor for any changes in your node.js application and automatically restart the server - perfect for development,JavaScript,11.2k,https://github.com/remy/nodemon,javascript
+367,Faker,Faker is a PHP library that generates fake data for you,PHP,11.1k,https://github.com/fzaninotto/Faker,php
+368,node-browserify,browser-side require() the node.js way,JavaScript,11.1k,https://github.com/substack/node-browserify,javascript
+369,nativefier,Make any web page a desktop application,JavaScript,11.1k,https://github.com/jiahaog/nativefier,javascript linux electron macos desktop-application nodejs windows
+370,AndroidUtilCode, Android developers should collect the following utils(updating),Java,11k,https://github.com/Blankj/AndroidUtilCode,java snackbar toast android app time log network phone cache utils regex convert file fragment encode bar permission spannable-string activity encrypt
+371,Effeckt.css,A Performant Transitions and Animations Library,CSS,11k,https://github.com/h5bp/Effeckt.css,css
+372,source-code-pro,Monospaced font family for user interface and coding environments,Python,11k,https://github.com/adobe-fonts/source-code-pro,python opentype-fonts otf font
+373,Respond,"A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",JavaScript,10.9k,https://github.com/scottjehl/Respond,javascript
+374,awesome-deep-learning-papers,The most cited deep learning papers,TeX,10.9k,https://github.com/terryum/awesome-deep-learning-papers,tex deep-learning machine-learning deep-neural-networks
+375,realm-cocoa,Realm is a mobile database: a replacement for Core Data & SQLite,Objective-C,10.9k,https://github.com/realm/realm-cocoa,objective-c mobile-database objective-c swift ios sync mobile database threadsafe realtime
+376,influxdb,"Scalable datastore for metrics, events, and real-time analytics",Go,10.9k,https://github.com/influxdata/influxdb,go metrics influxdb database monitoring time-series
+377,Spring,A library to simplify iOS animations in Swift.,Swift,10.9k,https://github.com/MengTo/Spring,swift
+378,hub,hub helps you win at git.,Go,10.9k,https://github.com/github/hub,go go homebrew git github-api
+379,dashing,The exceptionally handsome dashboard framework in Ruby and Coffeescript.,JavaScript,10.9k,https://github.com/Shopify/dashing,javascript
+380,mustache.js,Minimal templating with {{mustaches}} in JavaScript,JavaScript,10.9k,https://github.com/janl/mustache.js,javascript
+381,passport,"Simple, unobtrusive authentication for Node.js.",JavaScript,10.9k,https://github.com/jaredhanson/passport,javascript
+382,AngularJS-Learning,"A bunch of links to blog posts, articles, videos, etc for learning AngularJS",,10.8k,https://github.com/jmcunningham/AngularJS-Learning,
+383,jest, Delightful JavaScript Testing.,JavaScript,10.8k,https://github.com/facebook/jest,javascript javascript testing facebook snapshot expectation easy painless-javascript-testing immersive painless
+384,The-Art-Of-Programming-By-July,/,C,10.8k,https://github.com/julycoding/The-Art-Of-Programming-By-July,c
+385,superagent,Ajax with less suck - (and node.js HTTP client to match),JavaScript,10.8k,https://github.com/visionmedia/superagent,javascript
+386,tomorrow-theme,Tomorrow Theme the precursor to Base16 Theme,CSS,10.7k,https://github.com/chriskempson/tomorrow-theme,css
+387,requirejs,A file and module loader for JavaScript,JavaScript,10.7k,https://github.com/requirejs/requirejs,javascript
+388,shadowsocks-windows,"If you want to keep a secret, you must also hide it from yourself.",C#,10.7k,https://github.com/shadowsocks/shadowsocks-windows,c# shadowsocks c-sharp proxy
+389,cmder,Lovely console emulator package for Windows,PowerShell,10.7k,https://github.com/cmderdev/cmder,powershell
+390,medium-editor,Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.,JavaScript,10.6k,https://github.com/yabwe/medium-editor,javascript medium-editor javascript editor contenteditable wysiwyg rich-text-editor
+391,kong, The Microservice API Gateway,Lua,10.6k,https://github.com/Mashape/kong,lua api-gateway docker nginx iot microservices microservice serverless consul api-management luajit reverse-proxy apis cloud-native service-mesh
+392,platform,Open source Slack-alternative in Golang and React - Mattermost,JavaScript,10.6k,https://github.com/mattermost/platform,javascript
+393,Mantle,Model framework for Cocoa and Cocoa Touch,Objective-C,10.6k,https://github.com/Mantle/Mantle,objective-c
+394,JSQMessagesViewController,An elegant messages UI library for iOS,Objective-C,10.6k,https://github.com/jessesquires/JSQMessagesViewController,objective-c jsqmessagesviewcontroller ios messaging messenger message ios-ui viewcontroller
+395,cockroach,"CockroachDB - the open source, cloud-native SQL database.",Go,10.6k,https://github.com/cockroachdb/cockroach,go cockroachdb sql database go distributed-database
+396,spf13-vim,The ultimate vim distribution,Vim script,10.5k,https://github.com/spf13/spf13-vim,vim script
+397,angular-cli,CLI tool for Angular,TypeScript,10.5k,https://github.com/angular/angular-cli,typescript angular cli typescript angular-cli
+398,faker.js,generate massive amounts of fake data in Node.js and the browser,JavaScript,10.5k,https://github.com/Marak/faker.js,javascript fake faker-generator javascript faker mocking fake-content mocks fake-data
+399,MJRefresh,An easy way to use pull-to-refresh.,Objective-C,10.5k,https://github.com/CoderMJLee/MJRefresh,objective-c
+400,ava, Futuristic JavaScript test runner,JavaScript,10.5k,https://github.com/avajs/ava,javascript async-functions assert ava javascript test-runner tap concurrency babel es2015 nodejs cli async performance unicorns unit-testing cli-app node tdd testing test-framework
+401,SlidingMenu,An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android ,Java,10.5k,https://github.com/jfeinstein10/SlidingMenu,java
+402,preact, Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.,JavaScript,10.5k,https://github.com/developit/preact,javascript dom preact preact-components hyperscript jsx react virtual-dom components vdom
+403,tips,Most commonly used git tips and tricks.,JavaScript,10.5k,https://github.com/git-tips/tips,javascript git tips tips-and-tricks
+404,NativeScript,"NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like ",TypeScript,10.5k,https://github.com/NativeScript/NativeScript,typescript
+405,ngrok,Introspected tunnels to localhost,Go,10.5k,https://github.com/inconshreveable/ngrok,go
+406,interactive-coding-challenges,Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.,Python,10.5k,https://github.com/donnemartin/interactive-coding-challenges,python algorithm python development programming data-structure interview competitive-programming coding interview-practice interview-questions
+407,jstips,This is about useful JS tips!,,10.5k,https://github.com/loverajoel/jstips,jstips javascript-tips javascript hacks
+408,Sortable,Sortable  is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuer,JavaScript,10.4k,https://github.com/RubaXa/Sortable,javascript drag ui drag-and-drop drag-drop sort sortable reordering droppable draggable
+409,cocos2d-x,"Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over t",C++,10.4k,https://github.com/cocos2d/cocos2d-x,c++ cocos2d c-plus-plus cocos2d-js javascript lua game-engine cocos2d-x cocos2d-html5
+410,gin,Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up,Go,10.4k,https://github.com/gin-gonic/gin,go go middleware performance framework router server
+411,inferno,"An extremely fast, React-like JavaScript library for building modern user interfaces",JavaScript,10.4k,https://github.com/infernojs/inferno,javascript inferno react javascript-library inferno-component vdom performance inferno-js jsx
+412,PhotoView,"Implementation of ImageView for Android that supports zooming, by various touch gestures.",Java,10.4k,https://github.com/chrisbanes/PhotoView,java
+413,yii2,"Yii 2: The Fast, Secure and Professional PHP Framework",PHP,10.4k,https://github.com/yiisoft/yii2,php yii php framework yii2 php-framework
+414,MagicalRecord,Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!,Objective-C,10.4k,https://github.com/magicalpanda/MagicalRecord,objective-c
+415,netty,Netty project - an event-driven asynchronous network application framework,Java,10.4k,https://github.com/netty/netty,java
+416,stream-handbook,how to write node programs with streams,JavaScript,10.4k,https://github.com/substack/stream-handbook,javascript
+417,fks, Frontend Knowledge Structure,JavaScript,10.4k,https://github.com/JacksonTian/fks,javascript
+418,elixir,"Elixir is a dynamic, functional language designed for building scalable and maintainable applications",Elixir,10.3k,https://github.com/elixir-lang/elixir,elixir
+419,docker-cheat-sheet,Docker Cheat Sheet,,10.3k,https://github.com/wsargent/docker-cheat-sheet,
+420,jquery-mobile,jQuery Mobile Framework,JavaScript,10.1k,https://github.com/jquery/jquery-mobile,javascript
+421,vapor,A server-side Swift web framework.,Swift,10k,https://github.com/vapor/vapor,swift vapor swift framework server web-framework server-side-swift
+422,Hystrix,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and",Java,10k,https://github.com/Netflix/Hystrix,java
+423,SnapKit,A Swift Autolayout DSL for iOS & OS X,Swift,10k,https://github.com/SnapKit/SnapKit,swift dsl swift xcode cocoapods snapkit ui layout constraints autolayout auto
+424,drone,"Drone is a Continuous Delivery platform built on Docker, written in Go",Go,10k,https://github.com/drone/drone,go docker go continuous-integration continuous-delivery build-pipelines build-automation
+425,jquery-ui,The official jQuery user interface library.,JavaScript,10k,https://github.com/jquery/jquery-ui,javascript jquery javascript
+426,Framework7,Full featured HTML framework for building iOS & Android apps,HTML,10k,https://github.com/nolimits4web/Framework7,html android components ios cordova library mobile framework material material-design touch phonegap
+427,sass,Sass makes CSS fun again.,Ruby,10k,https://github.com/sass/sass,ruby
+428,gatsby, Blazing fast React.js static site generator,JavaScript,10k,https://github.com/gatsbyjs/gatsby,javascript react gatsby blog static-site-generator documentation-tool
+429,Snap.svg,The JavaScript library for modern SVG graphics.,JavaScript,10k,https://github.com/adobe-webplatform/Snap.svg,javascript snap javascript javascript-library svg svg-animations
+430,solved-by-flexbox,"A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.",JavaScript,10k,https://github.com/philipwalton/solved-by-flexbox,javascript
+431,Spoon-Knife,This repo is for demonstration purposes only.,HTML,10k,https://github.com/octocat/Spoon-Knife,html
+432,Alcatraz,Package manager for Xcode,Objective-C,10k,https://github.com/alcatraz/Alcatraz,objective-c
+433,pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R",Python,10k,https://github.com/pandas-dev/pandas,python data-analysis flexible pandas python alignment
+434,JSVerbalExpressions,JavaScript Regular expressions made easy,JavaScript,10k,https://github.com/VerbalExpressions/JSVerbalExpressions,javascript
+435,f8app,"Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",JavaScript,10k,https://github.com/fbsamples/f8app,javascript
+436,guetzli,Perceptual JPEG encoder,C++,9.9k,https://github.com/google/guetzli,c++ jpeg-encoder
+437,JSPatch,JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and metho,C,9.9k,https://github.com/bang590/JSPatch,c jspatch hotfix objc-runtime jsbridge
+438,wekan,The open-source Trello-like kanban (built with Meteor),JavaScript,9.9k,https://github.com/wekan/wekan,javascript wekan kanban meteor javascript docker-image sandstorm
+439,react-redux-universal-hot-example,"A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform",JavaScript,9.9k,https://github.com/erikras/react-redux-universal-hot-example,javascript
+440,compose,Define and run multi-container applications with Docker,Python,9.9k,https://github.com/docker/compose,python docker python docker-compose orchestration
+441,streisand,"Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor b",Shell,9.9k,https://github.com/jlund/streisand,shell l2tp ipsec openconnect openvpn tor stunnel ssh ansible shadowsocks vpn anyconnect sshuttle wireguard
+442,android-async-http,An Asynchronous HTTP Library for Android,Java,9.9k,https://github.com/loopj/android-async-http,java
+443,styleguide,Style guides for Google-originated open-source projects,HTML,9.9k,https://github.com/google/styleguide,html
+444,ievms,Automated installation of the Microsoft IE App Compat virtual machines,Shell,9.9k,https://github.com/xdissent/ievms,shell
+445,selectize.js,Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling k,JavaScript,9.9k,https://github.com/selectize/selectize.js,javascript select input tagging
+446,amazeui,"Amaze UI, a mobile-first and modular front-end framework.",JavaScript,9.8k,https://github.com/amazeui/amazeui,javascript css javascript less responsive mobile-first front-end-framework
+447,SVProgressHUD,A clean and lightweight progress HUD for your iOS and tvOS app.,Objective-C,9.8k,https://github.com/SVProgressHUD/SVProgressHUD,objective-c objective-c svprogresshud cocoapods carthage tvos hud ios progress
+448,uikit,A lightweight and modular front-end framework for developing fast and powerful web interfaces,CSS,9.8k,https://github.com/uikit/uikit,css
+449,htaccess,A collection of useful .htaccess snippets.,,9.8k,https://github.com/phanan/htaccess,htaccess htaccess-snippets snippets list awesome apache awesome-list dev-ops
+450,history.js,"History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. In",JavaScript,9.8k,https://github.com/browserstate/history.js,javascript html5-history-api html5-history javascript polyfill hashchange
+451,bootstrap-datepicker,A datepicker for twitter bootstrap (@twbs),JavaScript,9.8k,https://github.com/uxsolutions/bootstrap-datepicker,javascript bootstrap-datepicker javascript bootstrap
+452,forever,A simple CLI tool for ensuring that a given script runs continuously (i.e. forever),JavaScript,9.8k,https://github.com/foreverjs/forever,javascript
+453,phoenix,Productive. Reliable. Fast.,Elixir,9.8k,https://github.com/phoenixframework/phoenix,elixir
+454,enzyme,JavaScript Testing utilities for React,JavaScript,9.8k,https://github.com/airbnb/enzyme,javascript assertion-library chai react mocha traversal react-components enzyme ava testing jest test assertions test-runners
+455,interviews,Everything you need to know to get the job.,Java,9.8k,https://github.com/kdn251/interviews,java java algorithm algorithms leetcode interview interviews interview-practice algorithm-competitions leetcode-solutions interview-questions technical-coding-interview algorithm-challenges coding-interviews coding-challenge leetcode-questions coding-challenges leetcode-java interview-prep interview-preparation coding-interview
+456,fastText,Library for fast text representation and classification.,C++,9.8k,https://github.com/facebookresearch/fastText,c++
+457,smartcrop.js,Content aware image cropping,JavaScript,9.7k,https://github.com/jwagner/smartcrop.js,javascript smartcrop javascript nodejs image-processing
+458,backbone-fundamentals, A creative-commons book on Backbone.js for beginners and advanced users alike,JavaScript,9.7k,https://github.com/addyosmani/backbone-fundamentals,javascript
+459,store.js,Cross-browser storage for all use cases  Used across the web  See below for v2.0 news!,JavaScript,9.7k,https://github.com/marcuswestin/store.js,javascript localstorage storage javascript serialization plugins cross-browser store-json
+460,stackedit,In-browser markdown editor,JavaScript,9.7k,https://github.com/benweet/stackedit,javascript editor markdown
+461,blessed-contrib,Build terminal dashboards using ascii/ansi art and javascript,JavaScript,9.7k,https://github.com/yaronn/blessed-contrib,javascript
+462,RxSwift,Reactive Programming in Swift,Swift,9.7k,https://github.com/ReactiveX/RxSwift,swift rxswift reactivex swift ios reactive unidirectional observer functional
+463,rollup,Next-generation ES6 module bundler,JavaScript,9.7k,https://github.com/rollup/rollup,javascript
+464,leveldb,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to st,C++,9.7k,https://github.com/google/leveldb,c++
+465,framework,The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building,JavaScript,9.7k,https://github.com/aurelia/framework,javascript aurelia-framework javascript html mobile framework typescript spa web cross-platform single-page-applications
+466,awesome-shell,"A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",,9.7k,https://github.com/alebcay/awesome-shell,zsh cli fish shell bash list awesome awesome-list
+467,mobx,"Simple, scalable state management.",JavaScript,9.7k,https://github.com/mobxjs/mobx,javascript typescript javascript mobx react reactive-programming
+468,es6-cheatsheet,"ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",JavaScript,9.7k,https://github.com/DrkSephy/es6-cheatsheet,javascript cheatsheet javascript es6-javascript
+469,LightTable,The Light Table IDE,Clojure,9.7k,https://github.com/LightTable/LightTable,clojure clojurescript clojure editor ide lighttable clojure-development
+470,Carthage,"A simple, decentralized dependency manager for Cocoa",Swift,9.7k,https://github.com/Carthage/Carthage,swift carthage swift package-manager cocoa
+471,prepack,"Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code tha",JavaScript,9.7k,https://github.com/facebook/prepack,javascript javascript optimization
+472,capistrano,Remote multi-server automation tool,Ruby,9.6k,https://github.com/capistrano/capistrano,ruby ssh ruby deployment capistrano
+473,iscroll,Smooth scrolling for the web,JavaScript,9.6k,https://github.com/cubiq/iscroll,javascript
+474,cs-video-courses,List of Computer Science courses with video lectures.,,9.6k,https://github.com/Developer-Y/cs-video-courses,computer-science security machine-learning bioinformatics web-development algorithms robotics databases systems computer-architecture
+475,nsq,A realtime distributed messaging platform,Go,9.6k,https://github.com/nsqio/nsq,go go nsq distributed-systems queue messaging message-queue
+476,chartist-js,Simple responsive charts,JavaScript,9.6k,https://github.com/gionkunz/chartist-js,javascript
+477,css-protips,A collection of tips to help take your CSS skills pro,,9.6k,https://github.com/AllThingsSmitty/css-protips,flexbox css-skills protip css list awesome tips awesome-list tips-and-tricks
+478,servo,The Servo Browser Engine,,9.6k,https://github.com/servo/servo,servo rust browser
+479,octopress,Octopress is an obsessively designed framework for Jekyll blogging. Its easy to configure and easy to deploy. Sweet ,Ruby,9.6k,https://github.com/imathis/octopress,ruby
+480,mastodon,A GNU Social-compatible microblogging server,Ruby,9.6k,https://github.com/tootsuite/mastodon,ruby gnu-social mastodon webfinger activity-stream docker social-network microblog
+481,tldr, Simplified and community-driven man pages,TeX,9.6k,https://github.com/tldr-pages/tldr,tex tldr-pages shell man-page tldr cli console documentation terminal command-line reference examples help manual manpages cheatsheets
+482,mysql,A pure node.js JavaScript Client implementing the MySql protocol.,JavaScript,9.6k,https://github.com/mysqljs/mysql,javascript javascript nodejs mysql
+483,webpack-howto,"Updated Apr 18, 2017",JavaScript,9.5k,https://github.com/petehunt/webpack-howto,javascript
+484,rbenv,Groom your apps Ruby environment,Shell,9.5k,https://github.com/rbenv/rbenv,shell
+485,composer,Dependency Manager for PHP,PHP,9.5k,https://github.com/composer/composer,php composer php dependency-manager package-manager packages
+486,CodeHub,CodeHub is an iOS application written using Xamarin,C#,9.5k,https://github.com/thedillonb/CodeHub,c# codehub c-sharp github
+487,plyr,"A simple HTML5, YouTube and Vimeo player",JavaScript,9.5k,https://github.com/sampotts/plyr,javascript html5-video vimeo javascript plyr youtube
+488,dashboards,Responsive dashboard templates for Bootstrap,HTML,9.5k,https://github.com/keen/dashboards,html
+489,react-redux-links,"Curated tutorial and resource links I've collected on React, Redux, ES6, and more",,9.5k,https://github.com/markerikson/react-redux-links,react redux javascript webpack es6
+490,awesome-ios-ui,A curated list of awesome iOS UI/UX libraries,,9.5k,https://github.com/cjwirth/awesome-ios-ui,
+491,consul,Service Discovery and Configuration Made Easy,Go,9.5k,https://github.com/hashicorp/consul,go
+492,CocoaPods,The Cocoa Dependency Manager.,Ruby,9.5k,https://github.com/CocoaPods/CocoaPods,ruby cocoapods swift mac ios dependency-manager objective-c
+493,vimrc,The ultimate Vim configuration: vimrc,Vim script,9.5k,https://github.com/amix/vimrc,vim script
+494,fastjson, A fast JSON parser/generator for Java,Java,9.5k,https://github.com/alibaba/fastjson,java fastjson java android serialization json json-serialization deserialization json-parser json-serializer best-performance
+495,playframework,Play Framework,Scala,9.5k,https://github.com/playframework/playframework,scala scala java reactive restful web-framework play playframework
+496,iCarousel,"A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS",Objective-C,9.5k,https://github.com/nicklockwood/iCarousel,objective-c
+497,Material-Animations,Android Transition animations explanation with examples.,Java,9.5k,https://github.com/lgvalle/Material-Animations,java
+498,Magnific-Popup,Light and responsive lightbox script with focus on performance.,JavaScript,9.4k,https://github.com/dimsemenov/Magnific-Popup,javascript
+499,martini,Classy web framework for Go,Go,9.4k,https://github.com/go-martini/martini,go
+500,androidannotations,Fast Android Development. Easy maintainance.,Java,9.4k,https://github.com/androidannotations/androidannotations,java
+501,Chameleon,Flat Color Framework for iOS (Obj-C & Swift),Objective-C,9.4k,https://github.com/ViccAlexander/Chameleon,objective-c
+502,localForage," Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",JavaScript,9.4k,https://github.com/localForage/localForage,javascript websql localforage javascript localstorage indexeddb offline storage
+503,data-science-ipython-notebooks,"Recently updated with 50 new notebooks! Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Kera",Python,9.4k,https://github.com/donnemartin/data-science-ipython-notebooks,python python deep-learning kaggle numpy scikit-learn matplotlib scipy pandas aws data-science machine-learning caffe theano big-data spark hadoop tensorflow keras mapreduce
+504,vim,The official Vim repository,C,9.4k,https://github.com/vim/vim,c
+505,material2,Material Design components for Angular,TypeScript,9.4k,https://github.com/angular/material2,typescript material angular material-design angular-components
+506,sinatra,Classy web-development dressed in a DSL (official / canonical repo),Ruby,9.4k,https://github.com/sinatra/sinatra,ruby ruby rack sinatra web-framework
+507,flv.js,HTML5 FLV Player,JavaScript,9.4k,https://github.com/Bilibili/flv.js,javascript
+508,vim-airline,lean & mean status/tabline for vim that's light as air,Vim script,9.4k,https://github.com/vim-airline/vim-airline,vim script
+509,node-lessons,Node.js  by alsotang,JavaScript,9.4k,https://github.com/alsotang/node-lessons,javascript javascript nodejs
+510,material-theme,"Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino",Python,9.4k,https://github.com/equinusocio/material-theme,python material-theme sublime-text material-ui theme material-design ux user-experience
+511,AlgorithmVisualizer,Algorithm Visualizer,JavaScript,9.3k,https://github.com/parkjs814/AlgorithmVisualizer,javascript
+512,guzzle,"Guzzle, an extensible PHP HTTP client",PHP,9.3k,https://github.com/guzzle/guzzle,php guzzle curl psr-7 httpclient webservices
+513,WordPress,"WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror ",PHP,9.3k,https://github.com/WordPress/WordPress,php
+514,fzf, A command-line fuzzy finder written in Go,Go,9.3k,https://github.com/junegunn/fzf,go zsh fish fzf go vim bash cli unix neovim
+515,jstraining,,,9.3k,https://github.com/ruanyf/jstraining,
+516,Hero,Elegant transition library for iOS & tvOS,Swift,9.3k,https://github.com/lkzhao/Hero,swift animation custom-transitions swift ios material-design transition-animation ios-animation ios-transition
+517,osquery,"SQL powered operating system instrumentation, monitoring, and analytics.",C++,9.3k,https://github.com/facebook/osquery,c++ monitoring sql security intrusion-detection
+518,octotree,Code tree for GitHub,JavaScript,9.3k,https://github.com/buunguyen/octotree,javascript github code browser-extension
+519,lighthouse,"Auditing, performance metrics, and best practices for Progressive Web Apps",JavaScript,9.3k,https://github.com/GoogleChrome/lighthouse,javascript best-practices performance-metrics audit web pwa developer-tools performance-analysis
+520,IQKeyboardManager,Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. ,Objective-C,9.2k,https://github.com/hackiftekhar/IQKeyboardManager,objective-c iqkeyboardmanager swift xcode objective-c keyboard
+521,awesome-javascript," A collection of awesome browser-side JavaScript libraries, resources and shiny things.",,9.2k,https://github.com/sorrycc/awesome-javascript,
+522,react-motion,A spring that solves your animation problems.,JavaScript,9.2k,https://github.com/chenglou/react-motion,javascript
+523,webpack-dashboard,A CLI dashboard for webpack dev server,JavaScript,9.2k,https://github.com/FormidableLabs/webpack-dashboard,javascript cli webpack-dashboard cli-dashboard socket-communication webpack dashboard devtools dx
+524,headroom.js,Give your pages some headroom. Hide your header until you need it,JavaScript,9.2k,https://github.com/WickyNilliams/headroom.js,javascript
+525,loopback,LoopBack makes it easy to build modern applications that require complex integrations.,JavaScript,9.2k,https://github.com/strongloop/loopback,javascript
+526,postgrest,REST API for any Postgres database,Haskell,9.2k,https://github.com/begriffs/postgrest,haskell haskell postgrest database rest server postgresql
+527,Hack,A typeface designed for source code,Python,9.2k,https://github.com/chrissimpkins/Hack,python typeface font developer developer-tools ttf font-face otf typefaces otf-fonts
+528,vim-pathogen,pathogen.vim: manage your runtimepath,Vim script,9.2k,https://github.com/tpope/vim-pathogen,vim script
+529,fig-standards,Standards either proposed or approved by the Framework Interop Group,,9.2k,https://github.com/php-fig/fig-standards,
+530,CocoaLumberjack,"A fast & simple, yet powerful & flexible logging framework for Mac and iOS",Objective-C,9.2k,https://github.com/CocoaLumberjack/CocoaLumberjack,objective-c
+531,picturefill,"A responsive image polyfill for <picture>, srcset, sizes, and more",JavaScript,9.2k,https://github.com/scottjehl/picturefill,javascript
+532,tinker,"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",Java,9.2k,https://github.com/Tencent/tinker,java android dynamic wechat hotfix
+533,awesome-remote-job,A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python,,9.2k,https://github.com/lukasz-madon/awesome-remote-job,list awesome awesome-list
+534,react-redux-starter-kit,"Get started with React, Redux, and React-Router.",JavaScript,9.2k,https://github.com/davezuko/react-redux-starter-kit,javascript
+535,gson,A Java serialization/deserialization library to convert Java Objects into JSON and back,HTML,9.2k,https://github.com/google/gson,html
+536,raphael,JavaScript Vector Library,JavaScript,9.1k,https://github.com/DmitryBaranovskiy/raphael,javascript
+537,dubbo," Dubbo is a distributed, high performance RPC framework empowering applications with service import/export capabili",Java,9.1k,https://github.com/alibaba/dubbo,java dubbo java distributed-systems spring high-performance cluster service-discovery rpc soa service-registration rpc-framework service-consumer service-provider service-registry service-oriented
+538,react-native-macos,React Native for macOS is an experimental fork for writing desktop apps using Cocoa,JavaScript,9.1k,https://github.com/ptmt/react-native-macos,javascript
+539,plaid,An Android app which provides design news & inspiration as well as being an example of implementing material design.,Java,9.1k,https://github.com/nickbutcher/plaid,java
+540,jq,Command-line JSON processor,C,9.1k,https://github.com/stedolan/jq,c
+541,functional-programming-jargon,Jargon from the functional programming world in simple terms!,,9.1k,https://github.com/hemanth/functional-programming-jargon,functional-programming
+542,deep-photo-styletransfer,"Code and data for paper ""Deep Photo Style Transfer"": https://arxiv.org/abs/1703.07511",Matlab,9.1k,https://github.com/luanfujun/deep-photo-styletransfer,matlab
+543,uBlock,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.,JavaScript,9.1k,https://github.com/gorhill/uBlock,javascript
+544,Best-App,& Apps///,,9.1k,https://github.com/hzlzh/Best-App,
+545,fonts,Font files available from Google Fonts,PureBasic,9.1k,https://github.com/google/fonts,purebasic
+546,ResumeSample,Resume template for Chinese programmers . PHPiOSAndroidWebJavaC,,9.1k,https://github.com/geekcompany/ResumeSample,
+547,onepage-scroll,Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin,JavaScript,9.1k,https://github.com/peachananr/onepage-scroll,javascript
+548,bootswatch,Themes for Bootstrap,HTML,9.1k,https://github.com/thomaspark/bootswatch,html bootswatch theme bootstrap css
+549,relay,Relay is a JavaScript framework for building data-driven React applications.,JavaScript,9k,https://github.com/facebook/relay,javascript
+550,pouchdb, - PouchDB is a pocket-sized database.,JavaScript,9k,https://github.com/pouchdb/pouchdb,javascript pouchdb database javascript couchdb
+551,ViewPagerIndicator,Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.,Java,9k,https://github.com/JakeWharton/ViewPagerIndicator,java
+552,pyspider,A Powerful Spider(Web Crawler) System in Python.,Python,9k,https://github.com/binux/pyspider,python python crawler
+553,react-howto,Your guide to the (sometimes overwhelming!) React ecosystem.,,9k,https://github.com/petehunt/react-howto,
+554,lottie-ios,An iOS library to natively render After Effects vector animations,Objective-C,9k,https://github.com/airbnb/lottie-ios,objective-c animation keyframes ios transition-animation ios-animation ios-transition custom-transitions bodymovin
+555,quick-look-plugins,List of useful Quick Look plugins for developers,,9k,https://github.com/sindresorhus/quick-look-plugins,
+556,mars,Mars is a cross-platform network component developed by WeChat.,C++,9k,https://github.com/Tencent/mars,c++ cross-platform wechat log network
+557,storm,"Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and ",Java,9k,https://github.com/nathanmarz/storm,java
+558,PHPMailer,The classic email sending library for PHP,PHP,9k,https://github.com/PHPMailer/PHPMailer,php
+559,30DaysofSwift,A self-taught project to learn Swift.,Swift,9k,https://github.com/allenwong/30DaysofSwift,swift
+560,metasploit-framework,Metasploit Framework,Ruby,9k,https://github.com/rapid7/metasploit-framework,ruby
+561,You-Dont-Need-JavaScript,"CSS is powerful, you can do a lot of things without JS.",CSS,9k,https://github.com/you-dont-need/You-Dont-Need-JavaScript,css textfield tooltip treeview accordion counter burger-menu popover carousel font game javascript css
+562,jieba,,Python,8.9k,https://github.com/fxsjy/jieba,python
+563,youmightnotneedjquery,"Updated Jun 12, 2017",HTML,8.9k,https://github.com/HubSpot/youmightnotneedjquery,html
+564,pandoc,Universal markup converter,Haskell,8.9k,https://github.com/jgm/pandoc,haskell
+565,react-native-guide,React Nativereact-nativeApp,,8.9k,https://github.com/reactnativecn/react-native-guide,
+566,Public-APIs, A public list of APIs from round the web.,,8.9k,https://github.com/abhishekbanthia/Public-APIs,
+567,Android-CleanArchitecture,This is a sample app that is part of a series of blog posts I have written about how to architect an android applicat,Java,8.9k,https://github.com/android10/Android-CleanArchitecture,java java architectural android-cleanarchitecture android android-application android-development android-architecture
+568,2048,A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024),CSS,8.9k,https://github.com/gabrielecirulli/2048,css
+569,browser-sync,Keep multiple browsers & devices in sync when building websites. http://browsersync.io,JavaScript,8.9k,https://github.com/BrowserSync/browser-sync,javascript
+570,wp-calypso,The new JavaScript- and API-powered WordPress.com,JavaScript,8.9k,https://github.com/Automattic/wp-calypso,javascript wordpress javascript react redux nodejs es6 es2015 es6-javascript
+571,sqlmap,Automatic SQL injection and database takeover tool,Python,8.9k,https://github.com/sqlmapproject/sqlmap,python python database detection sql-injection pentesting exploitation takeover vulnerability-scanner
+572,Aerial,Apple TV Aerial Screensaver for Mac,Swift,8.8k,https://github.com/JohnCoates/Aerial,swift
+573,WebViewJavascriptBridge,An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews,Objective-C,8.8k,https://github.com/marcuswestin/WebViewJavascriptBridge,objective-c
+574,Awesome-Hacking,"A collection of various awesome lists for hackers, pentesters and security researchers",,8.8k,https://github.com/Hack-with-Github/Awesome-Hacking,bug-bounty hacking android security awesome reverse-engineering pentesting-windows penetration-testing fuzzing
+575,PocketHub,PocketHub Android App,Java,8.8k,https://github.com/pockethub/PocketHub,java
+576,Kingfisher,"A lightweight, pure-Swift library for downloading and caching images from the web.",Swift,8.8k,https://github.com/onevcat/Kingfisher,swift swift kingfisher image cache
+577,card, make your credit card form better in one line of code,CSS,8.8k,https://github.com/jessepollak/card,css jquery javascript credit-card css coffeescript payments
+578,julia,The Julia Language: A fresh approach to technical computing.,Julia,8.8k,https://github.com/JuliaLang/julia,julia julia-language julia programming-language scientific-computing
+579,CocoaAsyncSocket,Asynchronous socket networking library for Mac and iOS,Objective-C,8.8k,https://github.com/robbiehanson/CocoaAsyncSocket,objective-c
+580,folly,An open-source C++ library developed and used at Facebook.,C++,8.8k,https://github.com/facebook/folly,c++
+581,spin.js,A spinning activity indicator,JavaScript,8.7k,https://github.com/fgnass/spin.js,javascript
+582,DZNEmptyDataSet,A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no conten,Objective-C,8.7k,https://github.com/dzenbot/DZNEmptyDataSet,objective-c
+583,normalizr,Normalizes nested JSON according to a schema,JavaScript,8.7k,https://github.com/paularmstrong/normalizr,javascript javascript json redux normalizr api flux reactjs normalize
+584,waifu2x,Image Super-Resolution for Anime-Style Art,Lua,8.7k,https://github.com/nagadomi/waifu2x,lua waifu2x torch super-resolution
+585,terraform,"Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.",Go,8.7k,https://github.com/hashicorp/terraform,go graph go terraform infrastructure-as-code
+586,karma,Spectacular Test Runner for JavaScript,JavaScript,8.7k,https://github.com/karma-runner/karma,javascript qunit javascript test-runner karma jasmine browser mocha tdd bdd
+587,fabric,"Simple, Pythonic remote execution and deployment.",Python,8.7k,https://github.com/fabric/fabric,python
+588,tidb,TiDB is a distributed NewSQL database compatible with MySQL protocol,Go,8.7k,https://github.com/pingcap/tidb,go mysql newsql tidb database scale distributed-transactions distributed-database
+589,vivus,JavaScript library to make drawing animation on SVG,JavaScript,8.7k,https://github.com/maxwellito/vivus,javascript
+590,awesome-cpp,"A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",,8.6k,https://github.com/fffaraz/awesome-cpp,programming-tutorial c c-plus-plus list awesome algorithms cpp libraries awesome-list cppcon cpp-library
+591,awesome-redux,Awesome list of Redux examples and middlewares,,8.6k,https://github.com/xgrommx/awesome-redux,redux-documentation redux awesome awesome-list
+592,yeoman,Yeoman - a set of tools for automating development workflow,,8.6k,https://github.com/yeoman/yeoman,
+593,lets-chat,Self-hosted chat app for small teams,JavaScript,8.6k,https://github.com/sdelements/lets-chat,javascript
+594,ScrollMagic,The javascript library for magical scroll interactions.,JavaScript,8.6k,https://github.com/janpaepke/ScrollMagic,javascript
+595,paperclip,Easy file attachment management for ActiveRecord,Ruby,8.6k,https://github.com/thoughtbot/paperclip,ruby
+596,PHPExcel,A pure PHP library for reading and writing spreadsheet files,PHP,8.6k,https://github.com/PHPOffice/PHPExcel,php
+597,html2canvas,Screenshots with JavaScript,JavaScript,8.6k,https://github.com/niklasvh/html2canvas,javascript
+598,vue2-elm, vue2 + vuex  45 ,Vue,8.6k,https://github.com/bailicangdu/vue2-elm,vue vue
+599,traefik,"Trfik, a modern reverse proxy",Go,8.6k,https://github.com/containous/traefik,go consul etcd microservice marathon docker mesos letsencrypt kubernetes load-balancer zookeeper reverse-proxy
+600,PNChart,A simple and beautiful chart lib used in Piner and CoinsMan for iOS,Objective-C,8.6k,https://github.com/kevinzhow/PNChart,objective-c
+601,phabricator,Open software engineering platform and fun adventure game,PHP,8.6k,https://github.com/phacility/phabricator,php php phabricator git svn hg
+602,awesome-react-components,Catalog of React Components & Libraries,,8.5k,https://github.com/brillout/awesome-react-components,react-components react awesome react-component awesome-list devarchy
+603,algorithms,Minimal examples of data structures and algorithms in Python,Python,8.5k,https://github.com/keon/algorithms,python algorithm python data-structure interview competitive-programming
+604,fonts,Patched fonts for Powerline users.,PowerShell,8.5k,https://github.com/powerline/fonts,powershell
+605,redux-saga,An alternative side effect model for Redux apps,JavaScript,8.5k,https://github.com/redux-saga/redux-saga,javascript redux-saga middleware redux sagas effects
+606,spree,Spree is a complete open source ecommerce solution for Ruby on Rails,Ruby,8.5k,https://github.com/spree/spree,ruby spree ruby rails ecommerce commerce storefront commerce-engine ecommerce-platform e-commerce rubyonrails
+607,android-training-course-in-chinese,Android,JavaScript,8.5k,https://github.com/kesenhoo/android-training-course-in-chinese,javascript
+608,ramda, Practical functional Javascript,JavaScript,8.5k,https://github.com/ramda/ramda,javascript ramda javascript
+609,godot,Godot Engine  Multi-platform 2D and 3D game engine,C++,8.5k,https://github.com/godotengine/godot,c++ godot open-source gamedev multi-platform game-engine godotengine
+610,sage,WordPress starter theme with a modern development workflow,PHP,8.5k,https://github.com/roots/sage,php wordpress wordpress-starter-theme sage browsersync webpack es6 wordpress-theme blade
+611,waypoints,Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.,JavaScript,8.4k,https://github.com/imakewebthings/waypoints,javascript
+612,games," A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",,8.4k,https://github.com/leereilly/games,gamedev
+613,scala,The Scala programming language,Scala,8.4k,https://github.com/scala/scala,scala scala-compiler scala scala-programming-language scala-library jvm-languages
+614,crystal,The Crystal Programming Language,Crystal,8.4k,https://github.com/crystal-lang/crystal,crystal efficiency crystal language
+615,Qix,Machine LearningDeep LearningPostgreSQLDistributed SystemNode.JsGolang,,8.4k,https://github.com/ty4z2008/Qix,machine-learning go distributed-systems awesome deep-learning postgresql distributed-computing distributed
+616,FlappySwift,swift implementation of flappy bird. More at fullstackedu.com,Swift,8.4k,https://github.com/fullstackio/FlappySwift,swift
+617,revel,"A high productivity, full-stack web framework for the Go language.",Go,8.4k,https://github.com/revel/revel,go
+618,PokemonGo-Map, Live visualization of all the pokemon in your area... and more! (shutdown),,8.4k,https://github.com/AHAAAAAAA/PokemonGo-Map,
+619,VVDocumenter-Xcode,"Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.",Objective-C,8.4k,https://github.com/onevcat/VVDocumenter-Xcode,objective-c
+620,cpython,The Python programming language,Python,8.4k,https://github.com/python/cpython,python
+621,TimelineJS,TimelineJS: A Storytelling Timeline built in JavaScript.,JavaScript,8.4k,https://github.com/NUKnightLab/TimelineJS,javascript
+622,colour-schemes,Colour schemes for a variety of editors created by Dayle Rees.,JavaScript,8.4k,https://github.com/daylerees/colour-schemes,javascript
+623,swagger-ui,"Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from",JavaScript,8.4k,https://github.com/swagger-api/swagger-ui,javascript openapi-specification swagger-ui rest rest-api swagger swagger-api swagger-js
+624,flexbox-layout,Flexbox for Android,Java,8.4k,https://github.com/google/flexbox-layout,java android flexbox android-library
+625,co,"The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",JavaScript,8.4k,https://github.com/tj/co,javascript
+626,jsPDF,Client-side JavaScript PDF generation for everyone.,JavaScript,8.4k,https://github.com/MrRio/jsPDF,javascript
+627,vim-fugitive,"fugitive.vim: a Git wrapper so awesome, it should be illegal",Vim script,8.3k,https://github.com/tpope/vim-fugitive,vim script
+628,hexo-theme-next,Elegant theme for Hexo.,JavaScript,8.3k,https://github.com/iissnan/hexo-theme-next,javascript hexo hexo-theme theme-next
+629,lectures,Oxford Deep NLP 2017 course,,8.3k,https://github.com/oxford-cs-deepnlp-2017/lectures,deep-learning natural-language-processing machine-learning nlp oxford
+630,dotnet,This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Mic,HTML,8.3k,https://github.com/Microsoft/dotnet,html
+631,systemjs,Dynamic ES module loader,JavaScript,8.3k,https://github.com/systemjs/systemjs,javascript
+632,gollum,"A simple, Git-powered wiki with a sweet API and local frontend.",JavaScript,8.3k,https://github.com/gollum/gollum,javascript
+633,vux,Vue UI Components based on WeUI,Vue,8.3k,https://github.com/airyland/vux,vue weui vux vue vue-components components web-app wechat javascript mobile-web vue2
+634,isotope, Filter & sort magical layouts,HTML,8.3k,https://github.com/metafizzy/isotope,html
+635,angular-starter," An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy R",JavaScript,8.3k,https://github.com/AngularClass/angular-starter,javascript webpack angularclass angular karma protractor javascript aot typescript jasmine hmr angular2 aot-compilation angular4 starter-kit lazy-loading istanbul
+636,the-super-tiny-compiler, Possibly the smallest compiler ever,JavaScript,8.3k,https://github.com/thejameskyle/the-super-tiny-compiler,javascript
+637,vuex,Centralized State Management for Vue.js.,JavaScript,8.3k,https://github.com/vuejs/vuex,javascript vuex javascript state-management vue time-travel
+638,diff-so-fancy,Good-lookin' diffs. Actually nah The best-lookin' diffs. ,Perl,8.3k,https://github.com/so-fancy/diff-so-fancy,perl diff-highlight diff git
+639,knockout,"Knockout makes it easier to create rich, responsive UIs with JavaScript",JavaScript,8.3k,https://github.com/knockout/knockout,javascript
+640,Become-A-Full-Stack-Web-Developer,Free resources for learning Full Stack Web Development,,8.3k,https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer,
+641,html5shiv,This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.,JavaScript,8.3k,https://github.com/aFarkas/html5shiv,javascript
+642,MaterialDesignLibrary,This is a library with components of Android L to you use in android 2.2,Java,8.2k,https://github.com/navasmdc/MaterialDesignLibrary,java
+643,jquery-cookie,"No longer maintained, superseded by JS Cookie:",JavaScript,8.2k,https://github.com/carhartl/jquery-cookie,javascript
+644,Android-PullToRefresh,DEPRECATED,Java,8.2k,https://github.com/chrisbanes/Android-PullToRefresh,java
+645,android-tech-frontier,Android,,8.2k,https://github.com/hehonghui/android-tech-frontier,rxjava mvp android-architecture dagger2 mvvm-architecture android-testing
+646,RocAlphaGo,"An independent, student-led replication of DeepMind's 2016 Nature publication, ""Mastering the game of Go with deep ne",Python,8.2k,https://github.com/Rochester-NRT/RocAlphaGo,python
+647,react-redux,Official React bindings for Redux,JavaScript,8.2k,https://github.com/reactjs/react-redux,javascript redux react
+648,toxcore,The future of online communications.,C,8.2k,https://github.com/irungentoo/toxcore,c tox str8c
+649,stylus,"Expressive, robust, feature-rich CSS language built for nodejs",JavaScript,8.2k,https://github.com/stylus/stylus,javascript css stylus preprocessor
+650,bourbon,A Lightweight Sass Tool Set,Ruby,8.2k,https://github.com/thoughtbot/bourbon,ruby sass bourbon-family bourbon css scss sass-library sass-mixins sass-functions
+651,Design-Patterns-In-Swift,Design Patterns implemented in Swift,Swift,8.2k,https://github.com/ochococo/Design-Patterns-In-Swift,swift swift computer-science playground design-patterns swift-3 good-practices gang-of-four
+652,fabric.js,"Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",JavaScript,8.2k,https://github.com/kangax/fabric.js,javascript
+653,AndroidSwipeLayout,The Most Powerful Swipe Layout!,Java,8.2k,https://github.com/daimajia/AndroidSwipeLayout,java
+654,websocketd,"Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",Go,8.2k,https://github.com/joewalnes/websocketd,go websocket-server proxy websockets
+655,javascript-patterns,JavaScript Patterns,JavaScript,8.2k,https://github.com/shichuan/javascript-patterns,javascript
+656,handsontable,Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers,JavaScript,8.2k,https://github.com/handsontable/handsontable,javascript spreadsheet javascript component data-binding grid-editor data-grid dynamic-table
+657,commander.js,node.js command-line interfaces made easy,JavaScript,8.2k,https://github.com/tj/commander.js,javascript
+658,sshuttle,Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux a,Python,8.2k,https://github.com/apenwarr/sshuttle,python
+659,awesome-design, Creative Resources for Developer and Designer :),,8.2k,https://github.com/gztchan/awesome-design,adobe design awesome ui sketch ux graphics vector curated creative
+660,syntastic,Syntax checking hacks for vim,Vim script,8.2k,https://github.com/vim-syntastic/syntastic,vim script lint vim-plugin syntax-checker linters syntax-checking lint-checking
+661,styled-components,Visual primitives for the component age ,JavaScript,8.2k,https://github.com/styled-components/styled-components,javascript css react styled-components css-in-js
+662,restangular,AngularJS service to handle Rest API Restful Resources properly and easily,JavaScript,8.1k,https://github.com/mgonto/restangular,javascript
+663,cphalcon,"High performance, full-stack PHP framework delivered as a C extension.",PHP,8.1k,https://github.com/phalcon/cphalcon,php phalcon php zephir framework extension php-extension
+664,nerdtree,A tree explorer plugin for vim.,Vim script,8.1k,https://github.com/scrooloose/nerdtree,vim script
+665,favicon-cheat-sheet,Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things abo,,8.1k,https://github.com/audreyr/favicon-cheat-sheet,
+666,gold-miner,,,8.1k,https://github.com/xitu/gold-miner,android react ios translation frontend tutorials
+667,howler.js,Javascript audio library for the modern web.,JavaScript,8.1k,https://github.com/goldfire/howler.js,javascript howler audio volume html5-audio playback javascript audio-library web-audio
+668,django-rest-framework,Web APIs for Django.,Python,8.1k,https://github.com/encode/django-rest-framework,python
+669,Slim,Slim Framework source code,PHP,8.1k,https://github.com/slimphp/Slim,php
+670,Slim,Slim Framework source code,PHP,8.1k,https://github.com/slimphp/Slim,php
+671,grape,An opinionated framework for creating REST-like APIs in Ruby.,Ruby,8k,https://github.com/ruby-grape/grape,ruby ruby api grape
+672,Material,An animation and graphics framework for Material Design in Swift.,Swift,8k,https://github.com/CosmicMind/Material,swift snackbar material navigation-controller card navigation-drawer textfield photos cosmicmind searchbar material-colors swift ios design ui material-design animation ux graphics swift-3
+673,satellizer,Token-based AngularJS Authentication,TypeScript,8k,https://github.com/sahat/satellizer,typescript
+674,list.js,"The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Buil",JavaScript,8k,https://github.com/javve/list.js,javascript javascript flexibility sort pagination fuzzy-search search easy-to-use filters
+675,pageres,Capture website screenshots,JavaScript,8k,https://github.com/sindresorhus/pageres,javascript
+676,android-Ultra-Pull-To-Refresh,Ultra Pull to Refresh for Android. Support all the views.,Java,8k,https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh,java
+677,xi-editor,A modern editor with a backend written in Rust.,Rust,8k,https://github.com/google/xi-editor,rust
+678,FLEX,An in-app debugging and exploration tool for iOS,Objective-C,8k,https://github.com/Flipboard/FLEX,objective-c
+679,react-sketchapp,render React components to Sketch ,JavaScript,8k,https://github.com/airbnb/react-sketchapp,javascript react sketch sketch-plugin react-sketchapp react-renderer
+680,validator.js,String validation,JavaScript,8k,https://github.com/chriso/validator.js,javascript javascript sanitization node validation input
+681,hapi,Server Framework for Node.js,JavaScript,8k,https://github.com/hapijs/hapi,javascript
+682,realm-java,Realm is a mobile database: a replacement for SQLite & ORMs,Java,8k,https://github.com/realm/realm-java,java java android mobile database realtime-database nosql-database mobile-database
+683,Signal-Android,A private messenger for Android.,Java,8k,https://github.com/WhisperSystems/Signal-Android,java
+684,mitmproxy,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers,Python,8k,https://github.com/mitmproxy/mitmproxy,python python tls ssl http security proxy websocket http2 man-in-the-middle
+685,shellcheck,"ShellCheck, a static analysis tool for shell scripts",Haskell,8k,https://github.com/koalaman/shellcheck,haskell
+686,node_redis,redis client for node,JavaScript,8k,https://github.com/NodeRedis/node_redis,javascript
+687,greenDAO,greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.,Java,7.9k,https://github.com/greenrobot/greenDAO,java
+688,paper.js,"The Swiss Army Knife of Vector Graphics Scripting  Scriptographer ported to JavaScript and the browser, using HTML5 ",JavaScript,7.9k,https://github.com/paperjs/paper.js,javascript
+689,flatbuffers,Memory Efficient Serialization Library,C++,7.9k,https://github.com/google/flatbuffers,c++
+690,virtual-dom,A Virtual DOM and diffing algorithm,JavaScript,7.9k,https://github.com/Matt-Esch/virtual-dom,javascript
+691,BaseRecyclerViewAdapterHelper,"Powerful and flexible RecyclerAdapter, www.recyclerview.org",Java,7.9k,https://github.com/CymChad/BaseRecyclerViewAdapterHelper,java android recyclerview android-library recyclerview-item-animation recyclerview-adapter
+692,android-UniversalMusicPlayer,This sample shows how to implement an audio media app that works across multiple form factors and provide a consisten,Java,7.9k,https://github.com/googlesamples/android-UniversalMusicPlayer,java
+693,Parsley.js,"Validate your forms, frontend, without writing a single line of javascript",JavaScript,7.9k,https://github.com/guillaumepotier/Parsley.js,javascript
+694,rocksdb,"A library that provides an embeddable, persistent key-value store for fast storage.",C++,7.9k,https://github.com/facebook/rocksdb,c++
+695,eslint,A fully pluggable tool for identifying and reporting on patterns in JavaScript.,JavaScript,7.9k,https://github.com/eslint/eslint,javascript ecmascript javascript eslint static-code-analysis linter
+696,neural-doodle,"Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, trans",Python,7.9k,https://github.com/alexjc/neural-doodle,python
+697,Shimmer,"An easy way to add a simple, shimmering effect to any view in an iOS app.",Objective-C,7.9k,https://github.com/facebook/Shimmer,objective-c
+698,awesome-tensorflow,TensorFlow - A curated list of dedicated resources http://tensorflow.org,,7.9k,https://github.com/jtoy/awesome-tensorflow,
+699,bitbar,Put the output from any script or program in your Mac OS X Menu Bar,Objective-C,7.9k,https://github.com/matryer/bitbar,objective-c bitbar menubar mac scripting macosx
+700,stetho,"Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.",Java,7.9k,https://github.com/facebook/stetho,java
+701,is.js,Micro check library,JavaScript,7.9k,https://github.com/arasatasaygin/is.js,javascript
+702,nodemailer, Send e-mails with Node.JS  easy as cake!,JavaScript,7.9k,https://github.com/nodemailer/nodemailer,javascript nodemailer email email-sender rfc822
+703,capybara,Acceptance test framework for web applications,Ruby,7.9k,https://github.com/teamcapybara/capybara,ruby
+704,resque,"Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing t",Ruby,7.9k,https://github.com/resque/resque,ruby
+705,coreclr,"This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garb",C#,7.9k,https://github.com/dotnet/coreclr,c#
+706,gotty,Share your terminal as a web application,Go,7.8k,https://github.com/yudai/gotty,go go browser terminal web tty
+707,shadowsocks-android,A shadowsocks client for Android,Scala,7.8k,https://github.com/shadowsocks/shadowsocks-android,scala shadowsocks android
+708,frontend-stuff,A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mos,,7.8k,https://github.com/moklick/frontend-stuff,javascript frontend
+709,awesome-wechat-weapp, ,JavaScript,7.8k,https://github.com/justjavac/awesome-wechat-weapp,javascript weapp-demo wxapp wechat-weapp
+710,mousetrap,Simple library for handling keyboard shortcuts in Javascript,JavaScript,7.8k,https://github.com/ccampbell/mousetrap,javascript mousetrap javascript keyboard keyboard-shortcuts
+711,bash-guide,A guide to learn bash,,7.8k,https://github.com/Idnan/bash-guide,
+712,redux-devtools,"DevTools for Redux with hot reloading, action replay, and customizable UI",JavaScript,7.8k,https://github.com/gaearon/redux-devtools,javascript
+713,yoga,Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.,JavaScript,7.8k,https://github.com/facebook/yoga,javascript
+714,koel,A personal music streaming server that works.,PHP,7.8k,https://github.com/phanan/koel,php audio laravel vue
+715,jsdom,"A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js",JavaScript,7.8k,https://github.com/tmpvar/jsdom,javascript
+716,localstack,A fully functional local AWS cloud stack. Develop and test your cloud apps offline!,Python,7.8k,https://github.com/atlassian/localstack,python aws
+717,PromiseKit,Promises for Swift & ObjC,Swift,7.8k,https://github.com/mxcl/PromiseKit,swift
+718,fish-shell,The user-friendly command line shell.,Shell,7.8k,https://github.com/fish-shell/fish-shell,shell
+719,HackMyResume,"Generate polished rsums and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, ",JavaScript,7.8k,https://github.com/hacksalot/HackMyResume,javascript
+720,fpm,"Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",Ruby,7.8k,https://github.com/jordansissel/fpm,ruby
+721,salt,Software to automate the management and configuration of any infrastructure or application at scale. Get access to th,Python,7.8k,https://github.com/saltstack/salt,python python event-stream zeromq cloud-providers event-management configuration-management remote-execution infrastructure-management cloud-management cloud-provisioning
+722,spectacle,Spectacle allows you to organize your windows without using a mouse.,Objective-C,7.8k,https://github.com/eczarny/spectacle,objective-c
+723,vim-plug, Minimalist Vim Plugin Manager,Vim script,7.8k,https://github.com/junegunn/vim-plug,vim script vim
+724,uBlock,"uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.",JavaScript,7.8k,https://github.com/chrisaljoudi/uBlock,javascript
+725,rubocop,"A Ruby static code analyzer, based on the community Ruby style guide.",Ruby,7.8k,https://github.com/bbatsov/rubocop,ruby
+726,SlackTextViewController,A drop-in UIViewController subclass with a growing text input view and other useful messaging features,Objective-C,7.8k,https://github.com/slackhq/SlackTextViewController,objective-c
+727,UITableView-FDTemplateLayoutCell,Template auto layout cell for automatically UITableViewCell height calculating,Objective-C,7.8k,https://github.com/forkingdog/UITableView-FDTemplateLayoutCell,objective-c
+728,jquery-validation,jQuery Validation Plugin library sources,JavaScript,7.8k,https://github.com/jquery-validation/jquery-validation,javascript jquery-validation javascript jquery inline-validation
+729,brew, The missing package manager for macOS,Ruby,7.8k,https://github.com/Homebrew/brew,ruby homebrew ruby macos package-manager brew
+730,johnny-five,"JavaScript Robotics and IoT programming framework, developed at Bocoup.",JavaScript,7.8k,https://github.com/rwaldron/johnny-five,javascript javascript i2c arduino tessel raspberry-pi chip photon pcduino gpio adc dac pwm spi serial 1-wire bluetooth iot robotics beaglebone-black intel
+731,deeplearningbook-chinese,Deep Learning Book Chinese Translation,TeX,7.8k,https://github.com/exacity/deeplearningbook-chinese,tex
+732,flatpickr,lightweight and powerful datetimepicker with no dependencies,JavaScript,7.8k,https://github.com/chmln/flatpickr,javascript datetime date timepicker datetime-picker datepicker daterange daterangepicker
+733,pomelo,"A fast,scalable,distributed game server framework for Node.js.",JavaScript,7.7k,https://github.com/NetEase/pomelo,javascript
+734,brain,[UNMAINTAINED] Neural networks in JavaScript,JavaScript,7.7k,https://github.com/harthur/brain,javascript
+735,winston,a multi-transport async logging library for node.js,JavaScript,7.7k,https://github.com/winstonjs/winston,javascript
+736,falcor,A JavaScript library for efficient data fetching,JavaScript,7.7k,https://github.com/Netflix/falcor,javascript
+737,grumpy,Grumpy is a Python to Go source code transcompiler and runtime.,Go,7.7k,https://github.com/google/grumpy,go
+738,offline,Automatically display online/offline indication to your users,CSS,7.7k,https://github.com/HubSpot/offline,css
+739,trix,A rich text editor for everyday writing,CoffeeScript,7.7k,https://github.com/basecamp/trix,coffeescript wysiwyg-editor coffeescript javascript wysiwyg custom-elements rich-text-editor
+740,OpenEmu, Retro video game emulation for macOS,Objective-C,7.7k,https://github.com/OpenEmu/OpenEmu,objective-c
+741,linux-dash,A beautiful web dashboard for Linux,JavaScript,7.7k,https://github.com/afaqurk/linux-dash,javascript linux-dash linux ui web monitoring dashboard server
+742,ZeroNet,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network,Python,7.7k,https://github.com/HelloZeroNet/ZeroNet,python bitcoin bittorrent torrent web decentralized realtime p2p tor anticensorship internet-freedom anonymity
+743,prezto,The configuration framework for Zsh,Shell,7.7k,https://github.com/sorin-ionescu/prezto,shell
+744,xgboost,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and",C++,7.7k,https://github.com/dmlc/xgboost,c++ gbdt xgboost gbm distributed-systems gbrt
+745,roslyn,"The .NET Compiler Platform (""Roslyn"") provides open-source C# and Visual Basic compilers with rich code analysis APIs.",C#,7.7k,https://github.com/dotnet/roslyn,c# visual-studio visual-basic roslyn csharp
+746,AndroidViewAnimations,Cute view animation collection.,Java,7.7k,https://github.com/daimajia/AndroidViewAnimations,java android easing-functions animation
+747,ipfs,IPFS - The Permanent Web,,7.7k,https://github.com/ipfs/ipfs,ipfs p2p multiformats ipld
+748,MaterialDrawer,"The flexible, easy to use, all in one drawer library for your Android project.",Java,7.7k,https://github.com/mikepenz/MaterialDrawer,java android java drawer materialdrawer navigation-drawer material-design material-ui android-library android-development material-components android-ui material-theme drawerlayout drawer-support mikepenz
+749,mithril.js,A Javascript Framework for Building Brilliant Applications (development repo),JavaScript,7.7k,https://github.com/MithrilJS/mithril.js,javascript mithril xhr javascript virtual-dom framework router vdom
+750,echo,"High performance, minimalist Go web framework",Go,7.7k,https://github.com/labstack/echo,go middleware go letsencrypt ssl web microservice echo https websocket micro-framework http2 web-framework labstack-echo
+751,Android-ObservableScrollView,Android library to observe scroll events on scrollable views.,Java,7.6k,https://github.com/ksoichiro/Android-ObservableScrollView,java android-library android material-design android-ui
+752,powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, includ",Python,7.6k,https://github.com/powerline/powerline,python python vim bash zsh tmux fish ipython prompt powerline statusline
+753,logstash,"Logstash - transport and process your logs, events, or other data",Ruby,7.6k,https://github.com/elastic/logstash,ruby java streaming jruby logging real-time-processing etl-framework
+754,HomeMirror,Android application powering the mirror in my house,Java,7.6k,https://github.com/HannahMitt/HomeMirror,java
+755,pyenv,Simple Python version management,Shell,7.6k,https://github.com/pyenv/pyenv,shell
+756,sidekiq,"Simple, efficient background processing for Ruby",Ruby,7.6k,https://github.com/mperham/sidekiq,ruby ruby sidekiq
+757,FlatUIKit,A collection of awesome flat UI components for iOS.,Objective-C,7.6k,https://github.com/Grouper/FlatUIKit,objective-c
+758,trianglify,Algorithmically generated triangle art,JavaScript,7.6k,https://github.com/qrohlf/trianglify,javascript
+759,react-select,A Select control built with and for React JS,JavaScript,7.6k,https://github.com/JedWatson/react-select,javascript
+760,TTTAttributedLabel,"A drop-in replacement for UILabel that supports attributes, data detectors, links, and more",Objective-C,7.6k,https://github.com/TTTAttributedLabel/TTTAttributedLabel,objective-c
+761,alfred-workflows, A collection of Alfred 3 workflows that will rock your world,,7.6k,https://github.com/zenorocha/alfred-workflows,
+762,_s,"Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Pa",CSS,7.6k,https://github.com/Automattic/_s,css
+763,three20,Three20 is an Objective-C library for iPhone developers,Objective-C,7.6k,https://github.com/facebookarchive/three20,objective-c
+764,favico.js,"Make use of your favicon with badges, images or videos",JavaScript,7.6k,https://github.com/ejci/favico.js,javascript
+765,realworld,"TodoMVC for the RealWorld  Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many m",,7.5k,https://github.com/gothinkster/realworld,
+766,carrierwave,"Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",Ruby,7.5k,https://github.com/carrierwaveuploader/carrierwave,ruby
+767,WebFundamentals,Best practices for modern web development,HTML,7.5k,https://github.com/google/WebFundamentals,html html best-practices javascript css chrome web html5 progressive-web-app web-app chrome-browser mobile-web
+768,glances,Glances an Eye on your system. A top/htop alternative.,Python,7.5k,https://github.com/nicolargo/glances,python python multi-platform terminal web monitoring system restful restful-api
+769,kibana, Kibana analytics and search dashboard for Elasticsearch,JavaScript,7.5k,https://github.com/elastic/kibana,javascript elasticsearch kibana metrics visualizations
+770,go,The Open Source Data Science Masters,,7.5k,https://github.com/datasciencemasters/go,
+771,UglifyJS,JavaScript parser / mangler / compressor / beautifier library for NodeJS,JavaScript,7.5k,https://github.com/mishoo/UglifyJS,javascript
+772,ng-file-upload,Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support,JavaScript,7.5k,https://github.com/danialfarid/ng-file-upload,javascript
+773,Telegram,Telegram for Android source,C,7.5k,https://github.com/DrKLO/Telegram,c
+774,FFmpeg,mirror of git://source.ffmpeg.org/ffmpeg.git,C,7.5k,https://github.com/FFmpeg/FFmpeg,c
+775,openface,Face recognition with deep neural networks.,Lua,7.5k,https://github.com/cmusatyalab/openface,lua face-recognition deep-learning facenet
+776,jQuery-menu-aim,jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dr,JavaScript,7.5k,https://github.com/kamens/jQuery-menu-aim,javascript
+777,MWPhotoBrowser,"A simple iOS photo and video browser with grid view, captions and selections.",Objective-C,7.5k,https://github.com/mwaterfall/MWPhotoBrowser,objective-c
+778,kitematic,Visual Docker Container Management on Mac & Windows,JavaScript,7.5k,https://github.com/docker/kitematic,javascript docker electron containers toolbox electron-app kitematic
+779,piwik,Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives,PHP,7.5k,https://github.com/piwik/piwik,php php analytics privacy piwik website marketing mobile log web-analytics intranet growth
+780,design,WebAssembly Design Documents,,7.5k,https://github.com/WebAssembly/design,
+781,framework,"Updated Jun 24, 2017",PHP,7.5k,https://github.com/laravel/framework,php php laravel framework
+782,colors,Smarter defaults for colors on the web.,CSS,7.4k,https://github.com/mrmrs/colors,css
+783,FastImageCache,iOS library for quickly displaying images while scrolling,Objective-C,7.4k,https://github.com/path/FastImageCache,objective-c
+784,awesome-docker, A curated list of Docker resources and projects,,7.4k,https://github.com/veggiemonk/awesome-docker,docker dockerfile list awesome tools container awesome-list
+785,loaders.css,"Delightful, performance-focused pure css loading animations.",CSS,7.4k,https://github.com/ConnorAtherton/loaders.css,css
+786,reselect,Selector library for Redux,JavaScript,7.4k,https://github.com/reactjs/reselect,javascript memoized-selectors redux
+787,activeadmin,The administration framework for Ruby on Rails applications.,Ruby,7.4k,https://github.com/activeadmin/activeadmin,ruby arbre ruby activeadmin rails
+788,gremlins.js,Monkey testing library for web apps and Node.js,JavaScript,7.4k,https://github.com/marmelab/gremlins.js,javascript frontend test fuzz-testing
+789,goreplay,GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to con,Go,7.4k,https://github.com/buger/goreplay,go go testing devops qa testing-tools
+790,electronic-wechat, A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.,JavaScript,7.4k,https://github.com/geeeeeeeeek/electronic-wechat,javascript electron web-wechat linux macos wechat
+791,ActionBarSherlock,[DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation o,Java,7.4k,https://github.com/JakeWharton/ActionBarSherlock,java
+792,hint.css,A CSS only tooltip library for your lovely websites.,CSS,7.4k,https://github.com/chinchang/hint.css,css tooltip bem css tooltip-library accessibility purecss simple-api
+793,purifycss,Remove unused CSS. Also works with single-page apps.,JavaScript,7.4k,https://github.com/purifycss/purifycss,javascript
+794,convnetjs,Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.,JavaScript,7.4k,https://github.com/karpathy/convnetjs,javascript
+795,NodeBB,Node.js based forum software built for the modern web,JavaScript,7.4k,https://github.com/NodeBB/NodeBB,javascript nodebb forum mongodb redis javascript nodejs community node websockets socket-io
+796,uWebSockets,Tiny WebSockets,C++,7.4k,https://github.com/uNetworking/uWebSockets,c++ websockets http
+797,animated-tab-bar,RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.,Swift,7.4k,https://github.com/Ramotion/animated-tab-bar,swift uitabbarcontroller cocoapods animation swift ios design ui-design ui icons uikit tabbar constraints swift3 constraint-programming ios-ui ui-components animation-library design-thinking tabbarcontroller tabbaritem
+798,FizzBuzzEnterpriseEdition,FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious busin,Java,7.3k,https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition,java
+799,awesome-ruby," A collection of awesome Ruby libraries, tools, frameworks and software",,7.3k,https://github.com/markets/awesome-ruby,ruby awesome collection awesome-list
+800,node-http-proxy,A full-featured http proxy for node.js,JavaScript,7.3k,https://github.com/nodejitsu/node-http-proxy,javascript
+801,jquery.transit,Super-smooth CSS3 transformations and transitions for jQuery,JavaScript,7.3k,https://github.com/rstacruz/jquery.transit,javascript
+802,traceur-compiler,Traceur is a JavaScript.next-to-JavaScript-of-today compiler,JavaScript,7.3k,https://github.com/google/traceur-compiler,javascript
+803,generator-jhipster,Open Source application generator for creating Spring Boot + Angular projects in seconds!,JavaScript,7.3k,https://github.com/jhipster/generator-jhipster,javascript java docker angular webpack generator spring-boot yeoman-generator
+804,janus,Vim distribution,Vim script,7.3k,https://github.com/carlhuda/janus,vim script
+805,tether,"A positioning engine to make overlays, tooltips and dropdowns better #hubspot-open-source",JavaScript,7.3k,https://github.com/HubSpot/tether,javascript
+806,CircleImageView,A circular ImageView for Android,Java,7.3k,https://github.com/hdodenhof/CircleImageView,java android imageview widget
+807,zxcvbn,Low-Budget Password Strength Estimation,CoffeeScript,7.3k,https://github.com/dropbox/zxcvbn,coffeescript
+808,sigma.js,A JavaScript library dedicated to graph drawing,JavaScript,7.3k,https://github.com/jacomyal/sigma.js,javascript
+809,svgo,Nodejs-based tool for optimizing SVG vector graphics files.,JavaScript,7.3k,https://github.com/svg/svgo,javascript svgo nodejs optimization javascript svg cli minification
+810,css-modules,Documentation about css-modules,,7.3k,https://github.com/css-modules/css-modules,
+811,flexbugs,A community-curated list of flexbox issues and cross-browser workarounds for them.,,7.3k,https://github.com/philipwalton/flexbugs,
+812,jshint,JSHint is a tool that helps to detect errors and potential problems in your JavaScript code,JavaScript,7.3k,https://github.com/jshint/jshint,javascript
+813,WOW,Reveal CSS animation as you scroll down a page,JavaScript,7.3k,https://github.com/matthieua/WOW,javascript
+814,java8-tutorial,Modern Java - A Guide to Java 8,Java,7.3k,https://github.com/winterbe/java8-tutorial,java lambda-expressions java stream parallel-streams learning tutorial guide java-8
+815,relax,"New generation CMS on top of React, Redux and GraphQL",JavaScript,7.3k,https://github.com/relax/relax,javascript
+816,akka,"Build highly concurrent, distributed, and resilient message-driven applications on the JVM",Scala,7.3k,https://github.com/akka/akka,scala akka distributed-systems reactive high-performance actor-model concurrency distributed-actors
+817,swift-style-guide,The official Swift style guide for raywenderlich.com.,,7.3k,https://github.com/raywenderlich/swift-style-guide,
+818,cash,Cross-platform Linux commands in ES6,JavaScript,7.3k,https://github.com/dthree/cash,javascript
+819,connect,Connect is a middleware layer for Node.js,JavaScript,7.2k,https://github.com/senchalabs/connect,javascript javascript nodejs
+820,imgui,Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies,C++,7.2k,https://github.com/ocornut/imgui,c++ gamedev gui imgui
+821,swift-evolution,This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.,JavaScript,7.2k,https://github.com/apple/swift-evolution,javascript
+822,firefox-ios,Firefox for iOS,Swift,7.2k,https://github.com/mozilla-mobile/firefox-ios,swift swift firefox browser mozilla ios-app
+823,PowerShell,PowerShell for every system!,C#,7.2k,https://github.com/PowerShell/PowerShell,c# macos linux powershell windows shell command-line netcore
+824,luigi,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, work",Python,7.2k,https://github.com/spotify/luigi,python python hadoop scheduling orchestration-framework luigi
+825,minio,Minio is an open source object storage server compatible with Amazon S3 APIs,Go,7.2k,https://github.com/minio/minio,go go cloud storage aws-s3 cloud-storage s3-storage cloud-native object-storage
+826,es6tutorial,ECMAScript 6 JavaScript  ECMAScript 6 ,JavaScript,7.2k,https://github.com/ruanyf/es6tutorial,javascript
+827,home-assistant, Open-source home automation platform running on Python 3,Python,7.2k,https://github.com/home-assistant/home-assistant,python python home-automation mqtt raspberry-pi iot internet-of-things asyncio
+828,WaveFunctionCollapse,Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.,C#,7.2k,https://github.com/mxgmn/WaveFunctionCollapse,c# wfc c-sharp gamedev machine-learning algorithm procedural-generation
+829,spacegray,A Hyperminimal UI Theme for Sublime Text,JavaScript,7.2k,https://github.com/kkga/spacegray,javascript ui-theme theme spacegray-light flavor spacegray-eighties color-scheme sublime-text spacegray
+830,cakephp,CakePHP: The Rapid Development Framework for PHP - Official Repository,PHP,7.2k,https://github.com/cakephp/cakephp,php php cakephp validation orm web mvc rest-api web-framework mvc-framework psr-7 form-builder rapid-development
+831,ungit,The easiest way to use git. On any platform. Anywhere.,JavaScript,7.1k,https://github.com/FredrikNoren/ungit,javascript nodejs ungit javascript git ui
+832,BrowserQuest,A HTML5/JavaScript multiplayer game experiment,JavaScript,7.1k,https://github.com/mozilla/BrowserQuest,javascript
+833,backbone.marionette,The Backbone Framework,JavaScript,7.1k,https://github.com/marionettejs/backbone.marionette,javascript backbone-framework marionette marionettejs javascript backbone framework frontend
+834,whenever,Cron jobs in Ruby,Ruby,7.1k,https://github.com/javan/whenever,ruby
+835,photon,The fastest way to build beautiful Electron apps using simple HTML and CSS,CSS,7.1k,https://github.com/connors/photon,css electron photon css html
+836,rkt,"rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",Go,7.1k,https://github.com/rkt/rkt,go rkt go containers cncf oci pods
+837,kit,A standard library for microservices.,Go,7.1k,https://github.com/go-kit/kit,go go golang microservices metallica
+838,redox,Redox: A Rust Operating System,Shell,7.1k,https://github.com/redox-os/redox,shell redox rust operating-system microkernel
+839,clojurescript,Clojure to JS compiler,Clojure,7.1k,https://github.com/clojure/clojurescript,clojure
+840,cleave.js,Format input text content when you are typing...,JavaScript,7k,https://github.com/nosir/cleave.js,javascript input input-mask
+841,SwiftLint,A tool to enforce Swift style and conventions.,Swift,7k,https://github.com/realm/SwiftLint,swift
+842,celery,Distributed Task Queue (development branch),Python,7k,https://github.com/celery/celery,python
+843,CRYENGINE,CRYENGINE is a powerful real-time game development platform created by Crytek.,C++,7k,https://github.com/CRYTEK/CRYENGINE,c++ c-plus-plus gamedev multi-platform cross-platform game-engine c-plus-plus-11 game-development 3d-game-engine 3d-engine
+844,babun,Babun - a Windows shell you will love!,Shell,7k,https://github.com/babun/babun,shell
+845,n,Node version management,Shell,7k,https://github.com/tj/n,shell
+846,grav,"Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS",PHP,7k,https://github.com/getgrav/grav,php grav php cms flat-file content website content-management twig yaml symfony doctrine php7 website-builder website-generation markdown
+847,blur-admin,Angular Bootstrap Admin Panel Framework,JavaScript,7k,https://github.com/akveo/blur-admin,javascript angularjs admin admin-dashboard admin-ui admin-theme admin-template
+848,ExoPlayer,An extensible media player for Android,Java,7k,https://github.com/google/ExoPlayer,java exoplayer java android mediaplayer
+849,iris,[ACQUIRED] The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.,Go,7k,https://github.com/kataras/iris,go iris go golang cross-platform high-performance http2 web-framework easy-to-use
+850,vimium,The hacker's browser.,CoffeeScript,7k,https://github.com/philc/vimium,coffeescript
+851,fine-uploader,"Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, f",JavaScript,7k,https://github.com/FineUploader/fine-uploader,javascript fineuploader javascript api files web-development file-upload vanilla-javascript standalone vanilla-js javascript-library dropzone
+852,torch7,http://torch.ch,C,7k,https://github.com/torch/torch7,c
+853,Mobile-Detect,Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent str,PHP,7k,https://github.com/serbanghita/Mobile-Detect,php device-detection mobile-detect
+854,trip-to-iOS,A curated list of delightful iOS resources.,Objective-C,7k,https://github.com/Aufree/trip-to-iOS,objective-c
+855,MJExtension,"A fast, convenient and nonintrusive conversion between JSON and model. Your model class don't need to extend another ",Objective-C,7k,https://github.com/CoderMJLee/MJExtension,objective-c
+856,vault,A tool for managing secrets.,Go,7k,https://github.com/hashicorp/vault,go
+857,pelican,Static site generator that supports Markdown and reST syntax. Powered by Python.,Python,7k,https://github.com/getpelican/pelican,python python static-site-generator pelican
+858,reactide,Reactide is the first dedicated IDE for React web application development. http://reactide.io,JavaScript,7k,https://github.com/reactide/reactide,javascript electron react redux nodejs javascript desktop-app node devtools
+859,react-hot-loader,Tweak React components in real time.,JavaScript,7k,https://github.com/gaearon/react-hot-loader,javascript
+860,graphql-js,A reference implementation of GraphQL for JavaScript,JavaScript,7k,https://github.com/graphql/graphql-js,javascript graphql-js graphql
+861,Mailpile,"A free & open modern, fast email client with user-friendly encryption and privacy features",Python,7k,https://github.com/mailpile/Mailpile,python
+862,RESideMenu,iOS 7/8 style side menu with parallax effect.,Objective-C,6.9k,https://github.com/romaonthego/RESideMenu,objective-c
+863,postal, A fully featured open source mail delivery platform for incoming & outgoing e-mail,Ruby,6.9k,https://github.com/atech/postal,ruby postal ruby mail smtp mail-server
+864,compass,Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website desig,CSS,6.9k,https://github.com/Compass/compass,css
+865,pickadate.js,"(Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",JavaScript,6.9k,https://github.com/amsul/pickadate.js,javascript picker time date calendar
+866,JSON-js,JSON in JavaScript,JavaScript,6.9k,https://github.com/douglascrockford/JSON-js,javascript
+867,mailcheck,Reduce misspelled email addresses in your web apps.,JavaScript,6.9k,https://github.com/mailcheck/mailcheck,javascript
+868,Ladda,Buttons with built-in loading indicators.,HTML,6.9k,https://github.com/hakimel/Ladda,html
+869,skill-map,StuQ ,HTML,6.9k,https://github.com/TeamStuQ/skill-map,html
+870,bootstrap-daterangepicker,Date range picker component for Bootstrap,JavaScript,6.9k,https://github.com/dangrossman/bootstrap-daterangepicker,javascript
+871,infer,"A static analyzer for Java, C, C++, and Objective-C",OCaml,6.9k,https://github.com/facebook/infer,ocaml java c objective-c cpp static-code-analysis static-analysis code-quality
+872,c3,A D3-based reusable chart library,JavaScript,6.9k,https://github.com/c3js/c3,javascript chart d3 svg graph graphics data-visualization interactive-visualizations
+873,Arduino,open-source electronics prototyping platform,C,6.9k,https://github.com/arduino/Arduino,c
+874,z,z - jump around,Shell,6.9k,https://github.com/rupa/z,shell
+875,twemproxy,"A fast, light-weight proxy for memcached and redis",C,6.9k,https://github.com/twitter/twemproxy,c
+876,odoo,Odoo. Open Source Apps To Grow Your Business.,Python,6.9k,https://github.com/odoo/odoo,python odoo odoo-apps python business erp apps management
+877,deeplearning4j,"Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind",Java,6.9k,https://github.com/deeplearning4j/deeplearning4j,java intellij hadoop neural-nets gpu deeplearning4j dl4j java spark deeplearning
+878,node-restify,node.js REST framework specifically meant for web service APIs,JavaScript,6.9k,https://github.com/restify/node-restify,javascript restify server rest-api
+879,selenium,A browser automation framework and ecosystem.,JavaScript,6.9k,https://github.com/SeleniumHQ/selenium,javascript selenium java python ruby webdriver
+880,SocketRocket,A conforming Objective-C WebSocket client library.,Objective-C,6.9k,https://github.com/facebook/SocketRocket,objective-c
+881,tmux,tmux source code,C,6.9k,https://github.com/tmux/tmux,c
+882,react-slingshot,"React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app, all bu",JavaScript,6.8k,https://github.com/coryhouse/react-slingshot,javascript react redux boilerplate starter-kit
+883,redash,"Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.",Python,6.8k,https://github.com/getredash/redash,python redshift python visualization redash mysql bigquery angular bi athena analytics postgresql
+884,toastr,Simple javascript toast notifications,JavaScript,6.8k,https://github.com/CodeSeven/toastr,javascript
+885,fullcalendar,Full-sized drag & drop event calendar (jQuery plugin),JavaScript,6.8k,https://github.com/fullcalendar/fullcalendar,javascript
+886,pkg,Package your Node.js project into an executable,JavaScript,6.8k,https://github.com/zeit/pkg,javascript nodejs cli compiler binaries
+887,UglifyJS2,JavaScript parser / mangler / compressor / beautifier toolkit,JavaScript,6.8k,https://github.com/mishoo/UglifyJS2,javascript
+888,icheck,Highly customizable checkboxes and radio buttons (jQuery & Zepto),CSS,6.8k,https://github.com/fronteed/icheck,css
+889,SWTableViewCell,An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (simil,Objective-C,6.8k,https://github.com/CEWendel/SWTableViewCell,objective-c
+890,iview,A high quality UI Toolkit built on Vue.js,Vue,6.8k,https://github.com/iview/iview,vue vue javascript components ui-design vue-components ui-kit
+891,seajs,A Module Loader for the Web,JavaScript,6.8k,https://github.com/seajs/seajs,javascript
+892,rxjs,A reactive programming library for JavaScript,TypeScript,6.8k,https://github.com/ReactiveX/rxjs,typescript
+893,ToolsOfTheTrade,"Tools of The Trade, from Hacker News.",,6.8k,https://github.com/cjbarber/ToolsOfTheTrade,
+894,dive-into-machine-learning,Dive into Machine Learning with Python Jupyter notebook and scikit-learn,,6.8k,https://github.com/hangtwenty/dive-into-machine-learning,data-science jupyter-notebook deep-learning ipython-notebook scikit-learn machine-learning python learning courses diy learning-by-doing
+895,uncss,Remove unused styles from CSS,JavaScript,6.8k,https://github.com/giakki/uncss,javascript
+896,cheesesquare,Demos the new Android Design library.,Java,6.8k,https://github.com/chrisbanes/cheesesquare,java
+897,boot2docker,Lightweight Linux for Docker,Shell,6.8k,https://github.com/boot2docker/boot2docker,shell
+898,libuv,Cross-platform asynchronous I/O,C,6.8k,https://github.com/libuv/libuv,c asynchronous unix windows networking unicorns io velociraptors deep-io
+899,feathers,A REST and realtime API layer for modern applications.,JavaScript,6.8k,https://github.com/feathersjs/feathers,javascript feathersjs javascript nodejs browser react-native
+900,vim-go,Go development plugin for Vim,Vim script,6.8k,https://github.com/fatih/vim-go,vim script vim go viml golang vim-plugins vim-go
+901,spellbook-of-modern-webdev,"A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",,6.8k,https://github.com/dexteryy/spellbook-of-modern-webdev,nodejs javascript learning awesome html5 libraries css3 webapp webplatform universal-javascript isomorphic-javascript
+902,nuclide,"An open IDE for web and native mobile development, built on top of Atom",JavaScript,6.8k,https://github.com/facebook/nuclide,javascript
+903,shadowsocks-rss,"ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr",,6.8k,https://github.com/breakwa11/shadowsocks-rss,shadowsocksr ssr
+904,tmuxinator,Manage complex tmux sessions easily,Ruby,6.8k,https://github.com/tmuxinator/tmuxinator,ruby
+905,logger," Simple, pretty and powerful logger for android",Java,6.7k,https://github.com/orhanobut/logger,java android java log logger logcat timber pretty-printer json-logging
+906,neural-enhance,Super Resolution for images using deep learning.,Python,6.7k,https://github.com/alexjc/neural-enhance,python
+907,vim-galore, All things Vim!,Vim script,6.7k,https://github.com/mhinz/vim-galore,vim script vim-scripts vim viml awesome neovim guide tips tricks help learn awesome-list
+908,gmaps,the easiest way to use Google Maps,JavaScript,6.7k,https://github.com/hpneo/gmaps,javascript
+909,Mac-CLI, OS X command line tools for developers  The ultimate tool to manage your Mac. It provides a huge set of command li,Shell,6.7k,https://github.com/guarinogabriel/Mac-CLI,shell
+910,protractor,E2E test framework for Angular apps,JavaScript,6.7k,https://github.com/angular/protractor,javascript protractor angular javascript node webdriver test end-to-end selenium
+911,casperjs,Navigation scripting and testing utility for PhantomJS and SlimerJS,JavaScript,6.7k,https://github.com/casperjs/casperjs,javascript phantomjs javascript headless-testing headless-browsers
+912,frontend-guidelines,"Some HTML, CSS and JS best practices.",,6.7k,https://github.com/bendc/frontend-guidelines,
+913,52-technologies-in-2016,Let's learn a new technology every week. A new technology blog every Sunday in 2016.,JavaScript,6.7k,https://github.com/shekhargulati/52-technologies-in-2016,javascript tutorial blog learning
+914,redux-form,A Higher Order Component using react-redux to keep form state in a Redux store,JavaScript,6.7k,https://github.com/erikras/redux-form,javascript react redux-form redux validation forms form form-validation
+915,simple_form,"Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",Ruby,6.7k,https://github.com/plataformatec/simple_form,ruby ruby rails-helper form-builder rails dsl
+916,SwitchyOmega,Manage and switch between multiple proxies quickly & easily.,CoffeeScript,6.7k,https://github.com/FelisCatus/SwitchyOmega,coffeescript
+917,nuklear,A single-header ANSI C gui library,C,6.7k,https://github.com/vurtun/nuklear,c nuklear c gui imgui c89 single-header-lib
+918,packer,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,Go,6.7k,https://github.com/hashicorp/packer,go
+919,metrics-graphics,A library optimized for concise and principled data graphics and layouts.,JavaScript,6.7k,https://github.com/mozilla/metrics-graphics,javascript
+920,stack-on-a-budget,A collection of services with great free tiers for developers on a budget,,6.7k,https://github.com/255kb/stack-on-a-budget,list paas saas free
+921,nedb,"The JavaScript Database, for Node.js, nw.js, electron and the browser",JavaScript,6.7k,https://github.com/louischatriot/nedb,javascript
+922,famous,This repo is being deprecated. Please check out http://github.com/famous/engine,JavaScript,6.7k,https://github.com/Famous/famous,javascript
+923,druid, ,Java,6.7k,https://github.com/alibaba/druid,java
+924,beautiful-web-type,A showcase of the best typefaces from the Google web fonts directory.,CSS,6.6k,https://github.com/ubuwaits/beautiful-web-type,css
+925,Dapper,Dapper - a simple object mapper for .Net,C#,6.6k,https://github.com/StackExchange/Dapper,c# sql dapper ado-net
+926,slideout,A touch slideout navigation menu for your mobile web apps.,JavaScript,6.6k,https://github.com/Mango/slideout,javascript touch-events slideout-menu sidebar menu-navigation offcanvas
+927,gitolite,"Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce",Perl,6.6k,https://github.com/sitaramc/gitolite,perl
+928,cyclejs,A functional and reactive JavaScript framework for predictable code,TypeScript,6.6k,https://github.com/cyclejs/cyclejs,typescript javascript framework typescript rxjs functional-programming cyclejs reactive-programming
+929,OpenAPI-Specification,The OpenAPI Specification Repository,JavaScript,6.6k,https://github.com/OAI/OpenAPI-Specification,javascript
+930,awesome-elixir,"A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",Elixir,6.6k,https://github.com/h4cc/awesome-elixir,elixir
+931,GitUp,The Git interface you've been missing all your life has finally arrived.,Objective-C,6.6k,https://github.com/git-up/GitUp,objective-c
+932,flight,"A component-based, event-driven JavaScript framework from Twitter",JavaScript,6.6k,https://github.com/flightjs/flight,javascript
+933,nightwatch,Automated testing and continous integration framework based on node.js and selenium webdriver,JavaScript,6.6k,https://github.com/nightwatchjs/nightwatch,javascript javascript selenium-webdriver coverage nightwatch nodejs
+934,h2o,"H2O - the optimized HTTP/1, HTTP/2 server",C,6.6k,https://github.com/h2o/h2o,c
+935,compromise,Natural language processing in javascript,JavaScript,6.6k,https://github.com/nlp-compromise/compromise,javascript nlp named-entity-recognition part-of-speech
+936,wysihtml5,Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security c,JavaScript,6.6k,https://github.com/xing/wysihtml5,javascript
+937,twemoji,Twitter Emoji for Everyone,JavaScript,6.6k,https://github.com/twitter/twemoji,javascript
+938,agera,Reactive Programming for Android,Java,6.6k,https://github.com/google/agera,java android agera reactive
+939,bazel,"a fast, scalable, multi-language and extensible build system",Java,6.6k,https://github.com/bazelbuild/bazel,java bazel build test fast correct scalable multi-language build-system
+940,guides,A guide for programming in style.,Ruby,6.6k,https://github.com/thoughtbot/guides,ruby
+941,botkit,Botkit is a toolkit for making bot applications,JavaScript,6.6k,https://github.com/howdyai/botkit,javascript botkit-studio slack botkit-bots microsoft-bot-framework facebook bots twilio botkit cisco-spark bot-application
+942,kaminari," A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",Ruby,6.6k,https://github.com/kaminari/kaminari,ruby ruby kaminari rails pagination
+943,python-machine-learning-book,"The ""Python Machine Learning"" book code repository and info resource",Jupyter Notebook,6.6k,https://github.com/rasbt/python-machine-learning-book,jupyter notebook logistic-regression data-science neural-network machine-learning-algorithms machine-learning scikit-learn python data-mining
+944,Quick,The Swift (and Objective-C) testing framework.,Swift,6.6k,https://github.com/Quick/Quick,swift cocoapods swift objective-c carthage testing bdd
+945,rails_admin,RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data,Ruby,6.5k,https://github.com/sferik/rails_admin,ruby
+946,natural,general natural language facilities for node,JavaScript,6.5k,https://github.com/NaturalNode/natural,javascript
+947,SignalR,Incredibly simple real-time web for .NET,C#,6.5k,https://github.com/SignalR/SignalR,c# c-sharp signalr asp
+948,morris.js,Pretty time-series line graphs,CoffeeScript,6.5k,https://github.com/morrisjs/morris.js,coffeescript
+949,ng2-admin,Angular admin dashboard framework,TypeScript,6.5k,https://github.com/akveo/ng2-admin,typescript sass admin framework typescript webpack dashboard responsive angular2 aot-compilation ng2 admin-dashboard bootstrap4 angular4 aot angular-2 admin-ui
+950,lazysizes,"High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any ",JavaScript,6.5k,https://github.com/aFarkas/lazysizes,javascript javascript lazysizes performance lazyload lazy-evaluation responsive-images
+951,jquery_lazyload,jQuery plugin for lazy loading images,HTML,6.5k,https://github.com/tuupola/jquery_lazyload,html
+952,art-of-node, a short introduction to node.js,JavaScript,6.5k,https://github.com/maxogden/art-of-node,javascript
+953,Cachet,An open source status page system for everyone.,PHP,6.5k,https://github.com/CachetHQ/Cachet,php php cachet laravel composer statuspage web-application
+954,alexa-avs-sample-app,This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry ,Shell,6.5k,https://github.com/alexa/alexa-avs-sample-app,shell
+955,Theano,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi",Python,6.5k,https://github.com/Theano/Theano,python
+956,slate,A window management application (replacement for Divvy/SizeUp/ShiftIt),Objective-C,6.5k,https://github.com/jigish/slate,objective-c
+957,obs-studio,OBS - Free and open source software for live streaming and screen recording,C,6.5k,https://github.com/jp9000/obs-studio,c
+958,imagesloaded," JavaScript is all like ""You images done yet or what?""",JavaScript,6.5k,https://github.com/desandro/imagesloaded,javascript
+959,react-toolbox,A set of React components implementing Google's Material Design specification with the power of CSS Modules,JavaScript,6.5k,https://github.com/react-toolbox/react-toolbox,javascript
+960,api-guidelines,Microsoft REST API Guidelines,,6.5k,https://github.com/Microsoft/api-guidelines,api styleguide rest-api guidelines
+961,learn-anything, Search Interactive Mind Maps to learn anything,,6.5k,https://github.com/nikitavoloboev/learn-anything,search-engine knowledge community research curated resources mindmaps
+962,horizon,"Horizon is a realtime, open-source backend for JavaScript apps.",JavaScript,6.5k,https://github.com/rethinkdb/horizon,javascript
+963,anko,Pleasant Android application development,Kotlin,6.5k,https://github.com/Kotlin/anko,kotlin kotlin android
+964,PureLayout,"The ultimate API for iOS & OS X Auto Layout  impressively simple, immensely powerful. Objective-C and Swift compatible.",Objective-C,6.5k,https://github.com/PureLayout/PureLayout,objective-c purelayout ios autolayout
+965,BottomBar,A custom view component that mimics the new Material Design Bottom Navigation pattern.,Java,6.5k,https://github.com/roughike/BottomBar,java android java library material-design bottom-navigation
+966,code-guide,"Standards for flexible, durable, and sustainable HTML and CSS.",HTML,6.5k,https://github.com/mdo/code-guide,html
+967,python-fire,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,Python,6.5k,https://github.com/google/python-fire,python
+968,mosh,Mobile Shell,C++,6.5k,https://github.com/mobile-shell/mosh,c++
+969,bodymovin,after effects to html library,JavaScript,6.4k,https://github.com/bodymovin/bodymovin,javascript
+970,laptop,A shell script to set up a macOS laptop for web and mobile development.,Shell,6.4k,https://github.com/thoughtbot/laptop,shell
+971,bolt,An embedded key/value database for Go.,Go,6.4k,https://github.com/boltdb/bolt,go go database key-value
+972,js-the-right-way,"An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web",HTML,6.4k,https://github.com/braziljs/js-the-right-way,html javascript best-practices js guide
+973,plotly.js,The open source JavaScript graphing library that powers plotly,JavaScript,6.4k,https://github.com/plotly/plotly.js,javascript d3 webgl charting-library plotly data-visualization
+974,hiring-without-whiteboards, Companies that don't have a broken hiring process,JavaScript,6.4k,https://github.com/poteto/hiring-without-whiteboards,javascript whiteboard interview tech jobs hiring airtable hiring-without-whiteboards
+975,Calligraphy,Custom fonts in Android the easy way...,Java,6.4k,https://github.com/chrisjenx/Calligraphy,java
+976,http-prompt,HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting,Python,6.4k,https://github.com/eliangcs/http-prompt,python python syntax-highlighting shell cli http autocomplete json development web-development terminal rest-api http-client developer-tools
+977,masscan,"TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",C,6.4k,https://github.com/robertdavidgraham/masscan,c
+978,mint-ui,Mobile UI elements for Vue.js,Vue,6.4k,https://github.com/ElemeFE/mint-ui,vue vue mobile component vue-components ui-kit
+979,iina,The modern video player for macOS.,Swift,6.4k,https://github.com/lhc70000/iina,swift macos video mpv swift video-player

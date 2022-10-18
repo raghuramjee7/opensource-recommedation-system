@@ -5,19 +5,23 @@
     <title>Open Source Recommendation System</title>
 </head>
 <body>
-    <div id="header"> Open Source Recommendation System </div>
+    <div id="header">
+        <p align = "center">Open Source Recommendation System </p>
+    </div><br>
+
     <div align="center">
-        <a href="{{ url_for('index') }}">Home</a>
+        <a href="{{ url_for('index') }}">Home</a>   
         {% if current_user.is_anonymous %}
         <a href="{{ url_for('login') }}">Login</a>
         {% else %}
         <a href="{{ url_for('logout') }}">Logout</a>
         {% endif %}
-
     </div>
+
     <div id="content">
         {% block content %}
         {% endblock %}
     </div>
+
 </body>
 </html>
